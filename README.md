@@ -34,6 +34,7 @@ Multi-class N-pair Loss Objective (N-pair) (NIPS 2016) [[Paper]](http://www.nec-
 
 - Hardness-Aware Deep Metric Learning (CVPR 2019) [[Paper]](https://arxiv.org/abs/1903.05503)[[Tensorflow]](https://github.com/wzzheng/HDML)
 
+- __(Add remain CVPR 2019 papers using CVPR cvf)__
 ---
 ### 2️⃣ Similarity-based metric
 
@@ -49,7 +50,7 @@ Multi-class N-pair Loss Objective (N-pair) (NIPS 2016) [[Paper]](http://www.nec-
 - Adapted Deep Embeddings: A Synthesis of Methods for k-Shot Inductive Transfer Learning (NIPS 2018) [[Paper]](https://papers.nips.cc/paper/7293-adapted-deep-embeddings-a-synthesis-of-methods-for-k-shot-inductive-transfer-learning)[[Tensorflow]](https://github.com/tylersco/adapted_deep_embeddings)
 
 ---
-### 4️⃣ Ensemble method
+### 4️⃣ Ensemble methods
 
 - BIER-Boosting Independent Embeddings Robustly (ICCV 2017) [[Paper]](http://openaccess.thecvf.com/content_ICCV_2017/papers/Opitz_BIER_-_Boosting_ICCV_2017_paper.pdf)[[Tensorflow]](https://github.com/mop/bier)
 
@@ -66,6 +67,8 @@ Triplet Loss (ECCV 2018) [[Paper]](http://openaccess.thecvf.com/content_ECCV_201
 
 ---
 ### 5️⃣ Related works
+
+#### In NIPS
 
 - Distance Metric Learning for Large Margin Nearest Neighbor Classification (NIPS 2005) [[Paper]](https://papers.nips.cc/paper/2795-distance-metric-learning-for-large-margin-nearest-neighbor-classification)[[Journal]](http://jmlr.csail.mit.edu/papers/volume10/weinberger09a/weinberger09a.pdf)
 
@@ -89,6 +92,13 @@ Triplet Loss (ECCV 2018) [[Paper]](http://openaccess.thecvf.com/content_ECCV_201
 Kernel for Persistence Diagrams (NIPS 2018) [[Paper]](https://papers.nips.cc/paper/8205-persistence-fisher-kernel-a-riemannian-manifold-kernel-for-persistence-diagrams)
 
 - Bilevel Distance Metric Learning for Robust Image Recognition (NIPS 2018) [[Paper]](https://papers.nips.cc/paper/7674-bilevel-distance-metric-learning-for-robust-image-recognition)
+
+
+#### In ICLR
+
+- Metric Learning with Adaptive Density Discrimination (ICLR 2016) [[Paper]](https://arxiv.org/abs/1511.05939)[[Pytorch1]](https://github.com/vithursant/MagnetLoss-PyTorch)[[Pytorch2]](https://github.com/mbanani/pytorch-magnet-loss)[[Tensorflow]](https://github.com/pumpikano/tf-magnet-loss)
+
+- Learning Wasserstein Embedding (ICLR 2018) [[Paper]](https://openreview.net/pdf?id=SJyEH91A-)[[Keras]](https://github.com/mducoffe/Learning-Wasserstein-Embeddings)
 
 
 ---
