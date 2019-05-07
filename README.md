@@ -91,6 +91,21 @@ Kernel for Persistence Diagrams (NIPS 2018) [[Paper]](https://papers.nips.cc/pap
 - Bilevel Distance Metric Learning for Robust Image Recognition (NIPS 2018) [[Paper]](https://papers.nips.cc/paper/7674-bilevel-distance-metric-learning-for-robust-image-recognition)
 
 
+---
+### 6️⃣ Related videos
+
+#### Tutorial
+
+- Visual Search (Image Retrieval) and Metric Learning (CVPR 2018) [[Video]](https://www.youtube.com/watch?v=iW_9fvw6YtI)
+
+
+#### Lecture
+
+- Topology and Manifold (International Winter School on Gravity and Light 2015) [[Video]](https://www.youtube.com/watch?v=7G4SqIboeig&list=PLFeEvEPtX_0S6vxxiiNPrJbLu9aK1UVC_)
+
+
+
+
 
 ---
 ### Milestone
@@ -100,6 +115,8 @@ Kernel for Persistence Diagrams (NIPS 2018) [[Paper]](https://papers.nips.cc/pap
 - [x] Add Similarity-based metric
 
 - [x] Add Ensemble-based metric
+
+- [x] Add related videos
 
 - [ ] Add application web sites
 
