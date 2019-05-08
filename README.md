@@ -176,7 +176,7 @@ Kernel for Persistence Diagrams (NIPS 2018) [[Paper]](https://papers.nips.cc/pap
 
 
 ---
-### 7️⃣ Related materials
+### 7️⃣ Study materials
 
 #### Tutorial
 
@@ -206,6 +206,6 @@ Kernel for Persistence Diagrams (NIPS 2018) [[Paper]](https://papers.nips.cc/pap
 
 - [x] Add applications
 
-- [x] Add related materials
+- [x] Add study materials
 
 - [ ] Add brief descriptions
