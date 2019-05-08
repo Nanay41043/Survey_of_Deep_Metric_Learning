@@ -69,6 +69,18 @@ Triplet Loss (ECCV 2018) [[Paper]](http://openaccess.thecvf.com/content_ECCV_201
 
 - Person Re-Identification using Kernel-based Metric Learning Methods (ECCV 2014) [[Paper]](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.673.1976&rep=rep1&type=pdf)[[Matlab]](https://github.com/NEU-Gou/kernel-metric-learning-reid)
 
+- Similarity Learning on an Explicit Polynomial Kernel Feature Map for Person Re-Identification (CVPR 2015) [[Paper]](http://openaccess.thecvf.com/content_cvpr_2015/papers/Chen_Similarity_Learning_on_2015_CVPR_paper.pdf)
+
+- Learning to rank in person re-identification with metric ensembles (CVPR 2015) [[Paper]](http://openaccess.thecvf.com/content_cvpr_2015/papers/Paisitkriangkrai_Learning_to_Rank_2015_CVPR_paper.pdf)
+
+- Person Re-identification by Local Maximal Occurrence Representation and Metric Learning (CVPR 2015) [[Paper]](http://openaccess.thecvf.com/content_cvpr_2015/papers/Liao_Person_Re-Identification_by_2015_CVPR_paper.pdf)[[Matlab]](https://github.com/liangzheng06/MARS-evaluation/tree/master/LOMO_XQDA)
+
+- Learning a Discriminative Null Space for Person Re-identification (CVPR 2016) [[Paper]](http://openaccess.thecvf.com/content_cvpr_2016/papers/Zhang_Learning_a_Discriminative_CVPR_2016_paper.pdf)[[Matlab]](https://github.com/lzrobots/NullSpace_ReID)
+
+- Similarity Learning with Spatial Constraints for Person Re-identification (CVPR 2016) [[Paper]](http://openaccess.thecvf.com/content_cvpr_2016/papers/Chen_Similarity_Learning_With_CVPR_2016_paper.pdf)[[Matlab]](https://github.com/dapengchen123/SCSP)
+
+- Consistent-Aware Deep Learning for Person Re-identification in a Camera Network (CVPR 2016) [[Paper]](http://openaccess.thecvf.com/content_cvpr_2017/papers/Lin_Consistent-Aware_Deep_Learning_CVPR_2017_paper.pdf)
+
 - Re-ranking Person Re-identification with k-reciprocal Encoding (CVPR 2017) [[Paper]](http://openaccess.thecvf.com/content_cvpr_2017/papers/Zhong_Re-Ranking_Person_Re-Identification_CVPR_2017_paper.pdf)[[Caffe]](https://github.com/zhunzhong07/person-re-ranking)
 
 - Scalable Person Re-identification on Supervised Smoothed Manifold (CVPR 2017) [[Paper]](http://openaccess.thecvf.com/content_cvpr_2017/papers/Bai_Scalable_Person_Re-Identification_CVPR_2017_paper.pdf)
@@ -78,6 +90,10 @@ Triplet Loss (ECCV 2018) [[Paper]](http://openaccess.thecvf.com/content_ECCV_201
 - Point to Set Similarity Based Deep Feature Learning for Person Re-identification (CVPR 2017) [[Paper]](http://openaccess.thecvf.com/content_cvpr_2017/papers/Zhou_Point_to_Set_CVPR_2017_paper.pdf)
 
 - Consistent-Aware Deep Learning for Person Re-identification in a Camera Network (CVPR 2017) [[Paper]](http://openaccess.thecvf.com/content_cvpr_2017/papers/Lin_Consistent-Aware_Deep_Learning_CVPR_2017_paper.pdf)
+
+- Cross-view Asymmetric Metric Learning for Unsupervised Person Re-identification (ICCV 2017) [[Paper]](http://openaccess.thecvf.com/content_ICCV_2017/papers/Yu_Cross-View_Asymmetric_Metric_ICCV_2017_paper.pdf)[[Matlab]](https://github.com/KovenYu/CAMEL)
+
+- Efficient Online Local Metric Adaptation via Negative Samples for Person Re-Identification (ICCV 2017) [[Paper]](http://openaccess.thecvf.com/content_ICCV_2017/papers/Zhou_Efficient_Online_Local_ICCV_2017_paper.pdf)
 
 - Mask-guided Contrastive Attention Model for Person Re-Identification (CVPR 2018) [[Paper]](http://openaccess.thecvf.com/content_cvpr_2018/papers/Song_Mask-Guided_Contrastive_Attention_CVPR_2018_paper.pdf)[[Caffe]](https://github.com/developfeng/MGCAM)
 
