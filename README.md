@@ -16,8 +16,7 @@ Traditionally, they have defined metrics in a variety of ways, including Euclide
 
 - Deep Metric Learning via Lifted Structured Feature Embedding (LSSS) (CVPR 2016) [[Paper]](https://arxiv.org/abs/1511.06452)[[Chainer]](https://github.com/ronekko/deep_metric_learning)[[Caffe]](https://github.com/rksltnl/Deep-Metric-Learning-CVPR16)[[Pytorch1]](https://github.com/zhengxiawu/pytorch_deep_metric_learning)[[Pytorch2]](https://github.com/bnulihaixia/Deep_metric)[[Tensorflow]](https://github.com/kridgeway/f-statistic-loss-nips-2018)
 
-- Improved Deep Metric Learning with
-Multi-class N-pair Loss Objective (N-pair) (NIPS 2016) [[Paper]](http://www.nec-labs.com/uploads/images/Department-Images/MediaAnalytics/papers/nips16_npairmetriclearning.pdf)[[Pytorch]](https://github.com/ChaofWang/Npair_loss_pytorch)[[Chainer]](https://github.com/ronekko/deep_metric_learning)
+- Improved Deep Metric Learning with Multi-class N-pair Loss Objective (N-pair) (NIPS 2016) [[Paper]](http://www.nec-labs.com/uploads/images/Department-Images/MediaAnalytics/papers/nips16_npairmetriclearning.pdf)[[Pytorch]](https://github.com/ChaofWang/Npair_loss_pytorch)[[Chainer]](https://github.com/ronekko/deep_metric_learning)
 
 - Beyond triplet loss: a deep quadruplet network for person re-identification (Quadruplet) (CVPR 2017) [[Paper]](https://cvip.computing.dundee.ac.uk/papers/Chen_CVPR_2017_paper.pdf)
 
@@ -30,6 +29,17 @@ Multi-class N-pair Loss Objective (N-pair) (NIPS 2016) [[Paper]](http://www.nec-
 - Ranked List Loss for Deep Metric Learning (RLL) (CVPR 2019) [[Paper]](https://arxiv.org/abs/1903.03238)
 
 - Hardness-Aware Deep Metric Learning (HDML) (CVPR 2019) [[Paper]](https://arxiv.org/abs/1903.05503)[[Tensorflow]](https://github.com/wzzheng/HDML)
+
+- Deep Metric Learning to Rank (CVPR 2019) [[Paper]](http://cs-people.bu.edu/hekun/papers/CVPR2019FastAP.pdf)
+
+- Deep Metric Learning Beyond Binary Supervision (CVPR 2019) [[Paper]](https://arxiv.org/pdf/1904.09626.pdf)
+
+- Signal-to-Noise Ratio: A Robust Distance Metric for Deep Metric Learning (CVPR 2019) [[Paper]](https://arxiv.org/pdf/1904.02616.pdf)
+
+- Density Aware Deep Metric Learning (CVPR 2019) [[Paper]](https://arxiv.org/pdf/1904.03911.pdf)
+
+- A Theoretically Sound Upper Bound on the Triplet Loss for Improving the Efficiency of Deep Distance Metric Learning (CVPR 2019) [[paper]](https://arxiv.org/pdf/1904.08720.pdf)
+
 
 
 ---
@@ -59,8 +69,11 @@ Multi-class N-pair Loss Objective (N-pair) (NIPS 2016) [[Paper]](http://www.nec-
 
 - Attention-based Ensemble for Deep Metric Learning (ECCV 2018) [[Paper]](https://arxiv.org/abs/1804.00382)
 
-- Deep Metric Learning with Hierarchical
-Triplet Loss (ECCV 2018) [[Paper]](http://openaccess.thecvf.com/content_ECCV_2018/papers/Ge_Deep_Metric_Learning_ECCV_2018_paper.pdf)
+- Deep Metric Learning with Hierarchical Triplet Loss (ECCV 2018) [[Paper]](http://openaccess.thecvf.com/content_ECCV_2018/papers/Ge_Deep_Metric_Learning_ECCV_2018_paper.pdf)
+
+- Multi-Similarity Loss with General Pair Weighting for Deep Metric Learning (CVPR 2019) [[Paper]](https://arxiv.org/pdf/1904.06627.pdf)
+
+
 
 
 ---
@@ -112,6 +125,16 @@ Triplet Loss (ECCV 2018) [[Paper]](http://openaccess.thecvf.com/content_ECCV_201
 - Fusing Robust Face Region Descriptors via Multiple Metric Learning for Face Recognition in the Wild (CVPR 2013) [[Paper]](https://www.cv-foundation.org/openaccess/content_cvpr_2013/papers/Cui_Fusing_Robust_Face_2013_CVPR_paper.pdf)
 
 
+#### Point-cloud segmentation
+
+- Point Cloud Oversegmentation with Graph-Structured Deep Metric Learning (CVPR 2019) [[Paper]](https://arxiv.org/pdf/1904.02113.pdf)
+
+
+#### Image registration
+
+- Metric Learning for Image Registration (CVPR 2019) [[Paper]](https://arxiv.org/pdf/1904.09524.pdf)
+
+
 ---
 ### 6️⃣ Related works
 
@@ -156,8 +179,7 @@ Triplet Loss (ECCV 2018) [[Paper]](http://openaccess.thecvf.com/content_ECCV_201
 
 - Generative Local Metric Learning for Kernel Regression (NIPS 2017) [[Paper]](https://papers.nips.cc/paper/6839-generative-local-metric-learning-for-kernel-regression)
 
-- Persistence Fisher Kernel: A Riemannian Manifold
-Kernel for Persistence Diagrams (NIPS 2018) [[Paper]](https://papers.nips.cc/paper/8205-persistence-fisher-kernel-a-riemannian-manifold-kernel-for-persistence-diagrams)[[Matlab]](https://github.com/lttam/PersistenceFisher)
+- Persistence Fisher Kernel: A Riemannian Manifold Kernel for Persistence Diagrams (NIPS 2018) [[Paper]](https://papers.nips.cc/paper/8205-persistence-fisher-kernel-a-riemannian-manifold-kernel-for-persistence-diagrams)[[Matlab]](https://github.com/lttam/PersistenceFisher)
 
 - Bilevel Distance Metric Learning for Robust Image Recognition (NIPS 2018) [[Paper]](https://papers.nips.cc/paper/7674-bilevel-distance-metric-learning-for-robust-image-recognition)
 
