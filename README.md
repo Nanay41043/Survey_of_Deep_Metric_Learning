@@ -40,6 +40,8 @@ Traditionally, they have defined metrics in a variety of ways, including Euclide
 
 - A Theoretically Sound Upper Bound on the Triplet Loss for Improving the Efficiency of Deep Distance Metric Learning (CVPR 2019) [[paper]](https://arxiv.org/pdf/1904.08720.pdf)
 
+- Deep Metric Learning by Online Soft Mining and Class-Aware Attention (AAAI 2019) [[Paper]](https://arxiv.org/pdf/1811.01459.pdf)
+
 
 
 ---
