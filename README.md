@@ -7,6 +7,10 @@ Traditionally, they have defined metrics in a variety of ways, including Euclide
 
 🔔 Updated frequently.
 
+<p align="center">
+  <img width="460" height="150" src="/pic/Pedigree_of_metric_learning.png">
+</p>
+
 ---
 ### 1️⃣ Euclidean-based metric
 
