@@ -208,6 +208,8 @@ Traditionally, they have defined metrics in a variety of ways, including Euclide
 
 #### Tutorial
 
+- Metric learning tutorial (ICML 2010) [[Video]](https://www.youtube.com/watch?v=06BscIm7TwY)
+
 - Visual Search (Image Retrieval) and Metric Learning (CVPR 2018) [[Video]](https://www.youtube.com/watch?v=iW_9fvw6YtI)
 
 
@@ -219,7 +221,7 @@ Traditionally, they have defined metrics in a variety of ways, including Euclide
 
 - Understanding of Mahalanobis distance [[Video]](https://www.youtube.com/watch?v=3IdvoI8O9hU)
 
-- Metric learning tutorial (ICML 2010) [[Video]](https://www.youtube.com/watch?v=06BscIm7TwY)
+
 
 #### Repository
 
