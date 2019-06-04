@@ -215,6 +215,12 @@ Traditionally, they have defined metrics in a variety of ways, including Euclide
 
 - Topology and Manifold (International Winter School on Gravity and Light 2015) [[Video]](https://www.youtube.com/watch?v=7G4SqIboeig&list=PLFeEvEPtX_0S6vxxiiNPrJbLu9aK1UVC_)
 
+- Metric learning lecture (Waterloo University) [[Video]](https://www.youtube.com/watch?v=GhsHPY3-1zY)
+
+- Understanding of Mahalanobis distance [[Video]](https://www.youtube.com/watch?v=3IdvoI8O9hU)
+
+- Metric learning tutorial (ICML 2010) [[Video]](https://www.youtube.com/watch?v=06BscIm7TwY)
+
 #### Repository
 
 - Person re-identification in Pytorch [[Site]](https://github.com/KaiyangZhou/deep-person-reid)
