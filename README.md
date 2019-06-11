@@ -30,23 +30,17 @@ Traditionally, they have defined metrics in a variety of ways, including Euclide
 
 - Deep Metric Learning with Angular Loss (Angular) (CVPR 2017) [[Paper]](https://arxiv.org/abs/1708.01682)[[Tensorflow]](https://github.com/geonm/tf_angular_loss)[[Chainer]](https://github.com/ronekko/deep_metric_learning)
 
-- Ranked List Loss for Deep Metric Learning (RLL) (CVPR 2019) [[Paper]](https://arxiv.org/abs/1903.03238)
-
-- Hardness-Aware Deep Metric Learning (HDML) (CVPR 2019) [[Paper]](https://arxiv.org/abs/1903.05503)[[Tensorflow]](https://github.com/wzzheng/HDML)
-
-- Deep Metric Learning to Rank (CVPR 2019) [[Paper]](http://cs-people.bu.edu/hekun/papers/CVPR2019FastAP.pdf)
-
-- Deep Metric Learning Beyond Binary Supervision (CVPR 2019) [[Paper]](https://arxiv.org/pdf/1904.09626.pdf)
-
-- Signal-to-Noise Ratio: A Robust Distance Metric for Deep Metric Learning (CVPR 2019) [[Paper]](https://arxiv.org/pdf/1904.02616.pdf)
-
-- Density Aware Deep Metric Learning (CVPR 2019) [[Paper]](https://arxiv.org/pdf/1904.03911.pdf)
-
-- A Theoretically Sound Upper Bound on the Triplet Loss for Improving the Efficiency of Deep Distance Metric Learning (CVPR 2019) [[paper]](https://arxiv.org/pdf/1904.08720.pdf)
-
 - Deep Metric Learning by Online Soft Mining and Class-Aware Attention (AAAI 2019) [[Paper]](https://arxiv.org/pdf/1811.01459.pdf)
 
+- Hardness-Aware Deep Metric Learning (HDML) (CVPR 2019) [[Paper]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Zheng_Hardness-Aware_Deep_Metric_Learning_CVPR_2019_paper.pdf)[[Tensorflow]](https://github.com/wzzheng/HDML)
 
+- Deep Metric Learning Beyond Binary Supervision (CVPR 2019) [[Paper]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Kim_Deep_Metric_Learning_Beyond_Binary_Supervision_CVPR_2019_paper.pdf)
+
+- Deep Asymmetric Metric Learning via Rich Relationship Mining (CVPR 2019) [[Paper]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Xu_Deep_Asymmetric_Metric_Learning_via_Rich_Relationship_Mining_CVPR_2019_paper.pdf)
+
+- Signal-to-Noise Ratio: A Robust Distance Metric for Deep Metric Learning (CVPR 2019) [[Paper]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Yuan_Signal-To-Noise_Ratio_A_Robust_Distance_Metric_for_Deep_Metric_Learning_CVPR_2019_paper.pdf)
+
+- Ranked List Loss for Deep Metric Learning (CVPR 2019) [[Paper]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Wang_Ranked_List_Loss_for_Deep_Metric_Learning_CVPR_2019_paper.pdf)
 
 ---
 ### 2️⃣ Similarity-based metric
@@ -57,10 +51,12 @@ Traditionally, they have defined metrics in a variety of ways, including Euclide
 
 - Learning Deep Disentangled Embeddings With the F-Statistic Loss (NIPS 2018) [[Paper]](https://papers.nips.cc/paper/7303-learning-deep-disentangled-embeddings-with-the-f-statistic-loss)[[Tensorflow]](https://github.com/kridgeway/f-statistic-loss-nips-2018)
 
+
 ---
 ### 3️⃣ Integrated framework
 
 - Adapted Deep Embeddings: A Synthesis of Methods for k-Shot Inductive Transfer Learning (NIPS 2018) [[Paper]](https://papers.nips.cc/paper/7293-adapted-deep-embeddings-a-synthesis-of-methods-for-k-shot-inductive-transfer-learning)[[Tensorflow]](https://github.com/tylersco/adapted_deep_embeddings)
+
 
 ---
 ### 4️⃣ Ensemble methods
@@ -77,9 +73,17 @@ Traditionally, they have defined metrics in a variety of ways, including Euclide
 
 - Deep Metric Learning with Hierarchical Triplet Loss (ECCV 2018) [[Paper]](http://openaccess.thecvf.com/content_ECCV_2018/papers/Ge_Deep_Metric_Learning_ECCV_2018_paper.pdf)
 
-- Multi-Similarity Loss with General Pair Weighting for Deep Metric Learning (CVPR 2019) [[Paper]](https://arxiv.org/pdf/1904.06627.pdf)
+- Hybrid-Attention based Decoupled Metric Learning for Zero-Shot Image Retrieval (CVPR 2019) [[Paper]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Chen_Hybrid-Attention_Based_Decoupled_Metric_Learning_for_Zero-Shot_Image_Retrieval_CVPR_2019_paper.pdf) [[Caffe]](https://github.com/chenbinghui1/Hybrid-Attention-based-Decoupled-Metric-Learning)
 
+- Deep Metric Learning to Rank (CVPR 2019) [[Paper]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Cakir_Deep_Metric_Learning_to_Rank_CVPR_2019_paper.pdf)
 
+- Divide and Conquer the Embedding Space for Metric Learning (CVPR 2019) [[Paper]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Sanakoyeu_Divide_and_Conquer_the_Embedding_Space_for_Metric_Learning_CVPR_2019_paper.pdf) [[Code]](https://github.com/CompVis/metric-learning-divide-and-conquer) (__Not released yet__)
+
+- Multi-Similarity Loss with General Pair Weighting for Deep Metric Learning (CVPR 2019) [[Paper]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Wang_Multi-Similarity_Loss_With_General_Pair_Weighting_for_Deep_Metric_Learning_CVPR_2019_paper.pdf)
+
+- Stochastic Class-based Hard Example Mining for Deep Metric Learning (CVPR 2019) [[Paper]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Suh_Stochastic_Class-Based_Hard_Example_Mining_for_Deep_Metric_Learning_CVPR_2019_paper.pdf)
+
+- Distilled Person Re-identification: Towards a More Scalable System (CVPR 2019) [[Paper]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Wu_Distilled_Person_Re-Identification_Towards_a_More_Scalable_System_CVPR_2019_paper.pdf)
 
 
 ---
@@ -120,6 +124,40 @@ Traditionally, they have defined metrics in a variety of ways, including Euclide
 
 - Group Consistent Similarity Learning via Deep CRF for Person Re-Identification (CVPR 2018) [[Paper]](http://openaccess.thecvf.com/content_cvpr_2018/papers/Chen_Group_Consistent_Similarity_CVPR_2018_paper.pdf)[[Pytorch]](https://github.com/dapengchen123/crf_affinity)
 
+- Perceive Where to Focus: Learning Visibility-aware Part-level Features for Partial Person Re-identification (CVPR 2019) [[Paper]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Sun_Perceive_Where_to_Focus_Learning_Visibility-Aware_Part-Level_Features_for_Partial_CVPR_2019_paper.pdf)
+
+- Invariance Matters: Exemplar Memory for Domain Adaptive Person Re-identification (CVPR 2019) [[paper]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Zhong_Invariance_Matters_Exemplar_Memory_for_Domain_Adaptive_Person_Re-Identification_CVPR_2019_paper.pdf) [[Pytorch]](https://github.com/zhunzhong07/ECN)
+
+- Learning to Reduce Dual-level Discrepancy for Infrared-Visible Person Re-identification (CVPR2019) [[Paper]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Wang_Learning_to_Reduce_Dual-Level_Discrepancy_for_Infrared-Visible_Person_Re-Identification_CVPR_2019_paper.pdf)
+
+- Densely Semantically Aligned Person Re-Identification (CVPR 2019) [[Paper]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Zhang_Densely_Semantically_Aligned_Person_Re-Identification_CVPR_2019_paper.pdf)
+
+- Generalizable Person Re-identification by Domain-Invariant Mapping Network (CVPR 2019) [[Paper]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Song_Generalizable_Person_Re-Identification_by_Domain-Invariant_Mapping_Network_CVPR_2019_paper.pdf)
+
+- Re-ranking via Metric Fusion for Object Retrieval and Person Re-identification (CVPR 2019) [[Paper]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Bai_Re-Ranking_via_Metric_Fusion_for_Object_Retrieval_and_Person_Re-Identification_CVPR_2019_paper.pdf)
+
+- Weakly Supervised Person Re-Identification (CVPR 2019) [[Paper]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Meng_Weakly_Supervised_Person_Re-Identification_CVPR_2019_paper.pdf)
+
+- Towards Rich Feature Discovery with Class Activation Maps Augmentation for Person Re-Identification (CVPR 2019) [[Paper]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Yang_Towards_Rich_Feature_Discovery_With_Class_Activation_Maps_Augmentation_for_CVPR_2019_paper.pdf)
+
+- Joint Discriminative and Generative Learning for Person Re-identification (CVPR 2019) [[Paper]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Zheng_Joint_Discriminative_and_Generative_Learning_for_Person_Re-Identification_CVPR_2019_paper.pdf)
+
+- Unsupervised Person Re-identification by Soft Multilabel Learning (CVPR 2019) [[Paper]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Yu_Unsupervised_Person_Re-Identification_by_Soft_Multilabel_Learning_CVPR_2019_paper.pdf) [[Pytorch]](https://github.com/KovenYu/MAR)
+
+- Patch-based Discriminative Feature Learning for Unsupervised Person Re-identification (CVPR 2019) [[Paper]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Yang_Patch-Based_Discriminative_Feature_Learning_for_Unsupervised_Person_Re-Identification_CVPR_2019_paper.pdf)
+
+- Attribute-Driven Feature Disentangling and Temporal Aggregation for Video Person Re-Identification (CVPR 2019) [[Paper]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Zhao_Attribute-Driven_Feature_Disentangling_and_Temporal_Aggregation_for_Video_Person_Re-Identification_CVPR_2019_paper.pdf)
+
+- AANet: Attribute Attention Network for Person Re-Identifications (CVPR 2019) [[Paper]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Tay_AANet_Attribute_Attention_Network_for_Person_Re-Identifications_CVPR_2019_paper.pdf)
+
+- VRSTC: Occlusion-Free Video Person Re-Identification (CVPR 2019) [[paper]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Hou_VRSTC_Occlusion-Free_Video_Person_Re-Identification_CVPR_2019_paper.pdf)
+
+- Adaptive Transfer Network for Cross-Domain Person Re-Identification (CVPR 2019) [[Paper]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Liu_Adaptive_Transfer_Network_for_Cross-Domain_Person_Re-Identification_CVPR_2019_paper.pdf)
+
+- Pyramidal Person Re-IDentification via Multi-Loss Dynamic Training (CVPR 2019) [[Paper]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Zheng_Pyramidal_Person_Re-IDentification_via_Multi-Loss_Dynamic_Training_CVPR_2019_paper.pdf)
+
+- Interaction-and-Aggregation Network for Person Re-identification (CVPR 2019) [[Paper]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Hou_Interaction-And-Aggregation_Network_for_Person_Re-Identification_CVPR_2019_paper.pdf)
+
 
 #### Face verification
 
@@ -133,12 +171,17 @@ Traditionally, they have defined metrics in a variety of ways, including Euclide
 
 #### Point-cloud segmentation
 
-- Point Cloud Oversegmentation with Graph-Structured Deep Metric Learning (CVPR 2019) [[Paper]](https://arxiv.org/pdf/1904.02113.pdf)
+- Point Cloud Oversegmentation with Graph-Structured Deep Metric Learning (CVPR 2019) [[Paper]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Landrieu_Point_Cloud_Oversegmentation_With_Graph-Structured_Deep_Metric_Learning_CVPR_2019_paper.pdf)
 
 
 #### Image registration
 
-- Metric Learning for Image Registration (CVPR 2019) [[Paper]](https://arxiv.org/pdf/1904.09524.pdf)
+- Metric Learning for Image Registration (CVPR 2019) [[Paper]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Niethammer_Metric_Learning_for_Image_Registration_CVPR_2019_paper.pdf)
+
+
+#### Few-shot object detection
+
+- RepMet: Representative-based metric learning for classification and few-shot object detection (CVPR 2019) [[Paper]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Karlinsky_RepMet_Representative-Based_Metric_Learning_for_Classification_and_Few-Shot_Object_Detection_CVPR_2019_paper.pdf) [[Pytorch]](https://github.com/HaydenFaulkner/pytorch.repmet)
 
 
 ---
@@ -188,6 +231,11 @@ Traditionally, they have defined metrics in a variety of ways, including Euclide
 - Persistence Fisher Kernel: A Riemannian Manifold Kernel for Persistence Diagrams (NIPS 2018) [[Paper]](https://papers.nips.cc/paper/8205-persistence-fisher-kernel-a-riemannian-manifold-kernel-for-persistence-diagrams)[[Matlab]](https://github.com/lttam/PersistenceFisher)
 
 - Bilevel Distance Metric Learning for Robust Image Recognition (NIPS 2018) [[Paper]](https://papers.nips.cc/paper/7674-bilevel-distance-metric-learning-for-robust-image-recognition)
+
+
+#### CVPR
+
+- A Theoretically Sound Upper Bound on the Triplet Loss for Improving the Efficiency of Deep Distance Metric Learning (CVPR 2019) [[Paper]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Do_A_Theoretically_Sound_Upper_Bound_on_the_Triplet_Loss_for_CVPR_2019_paper.pdf)
 
 
 #### ICLR
