@@ -276,9 +276,6 @@ Traditionally, they have defined metrics in a variety of ways, including Euclide
 - Person re-identification in Pytorch [[Site]](https://github.com/KaiyangZhou/deep-person-reid)
 
 
-
-
-
 ---
 ### Milestone
 
