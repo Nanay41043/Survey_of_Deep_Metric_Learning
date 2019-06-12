@@ -42,6 +42,8 @@ Traditionally, they have defined metrics in a variety of ways, including Euclide
 
 - Ranked List Loss for Deep Metric Learning (CVPR 2019) [[Paper]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Wang_Ranked_List_Loss_for_Deep_Metric_Learning_CVPR_2019_paper.pdf)
 
+- Deep Metric Learning to Rank (CVPR 2019) [[Paper]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Cakir_Deep_Metric_Learning_to_Rank_CVPR_2019_paper.pdf)
+
 ---
 ### 2️⃣ Similarity-based metric
 
@@ -74,8 +76,6 @@ Traditionally, they have defined metrics in a variety of ways, including Euclide
 - Deep Metric Learning with Hierarchical Triplet Loss (ECCV 2018) [[Paper]](http://openaccess.thecvf.com/content_ECCV_2018/papers/Ge_Deep_Metric_Learning_ECCV_2018_paper.pdf)
 
 - Hybrid-Attention based Decoupled Metric Learning for Zero-Shot Image Retrieval (CVPR 2019) [[Paper]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Chen_Hybrid-Attention_Based_Decoupled_Metric_Learning_for_Zero-Shot_Image_Retrieval_CVPR_2019_paper.pdf) [[Caffe]](https://github.com/chenbinghui1/Hybrid-Attention-based-Decoupled-Metric-Learning)
-
-- Deep Metric Learning to Rank (CVPR 2019) [[Paper]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Cakir_Deep_Metric_Learning_to_Rank_CVPR_2019_paper.pdf)
 
 - Divide and Conquer the Embedding Space for Metric Learning (CVPR 2019) [[Paper]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Sanakoyeu_Divide_and_Conquer_the_Embedding_Space_for_Metric_Learning_CVPR_2019_paper.pdf) [[Code]](https://github.com/CompVis/metric-learning-divide-and-conquer) (__Not released yet__)
 
