@@ -12,7 +12,7 @@ Traditionally, they have defined metrics in a variety of ways, including Euclide
 </p>
 
 ---
-### 1️⃣ Euclidean-based metric
+### 1️⃣ Pairwise cost methods
 
 - Dimensionality Reduction by Learning an Invariant Mapping (Contrastive) (CVPR 2006) [[Paper]](http://yann.lecun.com/exdb/publis/pdf/hadsell-chopra-lecun-06.pdf)[[Caffe]](https://github.com/wujiyang/Contrastive-Loss)[[Tensorflow]](https://github.com/ardiya/siamesenetwork-tensorflow)[[Keras]](https://github.com/keras-team/keras/blob/master/examples/mnist_siamese.py)[[Pytorch1]](https://github.com/delijati/pytorch-siamese/blob/master/contrastive.py)[[Pytorch2]](https://github.com/bnulihaixia/Deep_metric)
 
@@ -45,7 +45,7 @@ Traditionally, they have defined metrics in a variety of ways, including Euclide
 - Deep Metric Learning to Rank (CVPR 2019) [[Paper]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Cakir_Deep_Metric_Learning_to_Rank_CVPR_2019_paper.pdf)
 
 ---
-### 2️⃣ Similarity-based metric
+### 2️⃣ Similarity or other variant methods
 
 - Deep Metric Learning for Practical Person Re-Identification [[Paper]](https://arxiv.org/abs/1407.4979)[[Tensorflow]](https://github.com/kridgeway/f-statistic-loss-nips-2018)[[Pytorch]](https://github.com/bnulihaixia/Deep_metric)
 
@@ -55,13 +55,13 @@ Traditionally, they have defined metrics in a variety of ways, including Euclide
 
 
 ---
-### 3️⃣ Integrated framework
+### 3️⃣ Probabilistic methods
 
-- Adapted Deep Embeddings: A Synthesis of Methods for k-Shot Inductive Transfer Learning (NIPS 2018) [[Paper]](https://papers.nips.cc/paper/7293-adapted-deep-embeddings-a-synthesis-of-methods-for-k-shot-inductive-transfer-learning)[[Tensorflow]](https://github.com/tylersco/adapted_deep_embeddings)
+- (ongoing)
 
 
 ---
-### 4️⃣ Ensemble methods
+### 4️⃣ Boost-like methods
 
 - BIER-Boosting Independent Embeddings Robustly (ICCV 2017) [[Paper]](http://openaccess.thecvf.com/content_ICCV_2017/papers/Opitz_BIER_-_Boosting_ICCV_2017_paper.pdf)[[Tensorflow]](https://github.com/mop/bier)
 
@@ -232,6 +232,8 @@ Traditionally, they have defined metrics in a variety of ways, including Euclide
 
 - Bilevel Distance Metric Learning for Robust Image Recognition (NIPS 2018) [[Paper]](https://papers.nips.cc/paper/7674-bilevel-distance-metric-learning-for-robust-image-recognition)
 
+- Adapted Deep Embeddings: A Synthesis of Methods for k-Shot Inductive Transfer Learning (NIPS 2018) [[Paper]](https://papers.nips.cc/paper/7293-adapted-deep-embeddings-a-synthesis-of-methods-for-k-shot-inductive-transfer-learning)[[Tensorflow]](https://github.com/tylersco/adapted_deep_embeddings)
+
 
 #### CVPR
 
@@ -279,11 +281,13 @@ Traditionally, they have defined metrics in a variety of ways, including Euclide
 ---
 ### Milestone
 
-- [x] Add Euclidean-based metric
+- [x] Add Pairwise cost methods
 
-- [x] Add Similarity-based metric
+- [x] Add Similarity or other variant methods
 
-- [x] Add Ensemble-based metric
+- [ ] Add Probabilistic methods
+
+- [x] Add Boost-like methods
 
 - [x] Add applications
 
