@@ -8,8 +8,9 @@ Traditionally, they have defined metrics in a variety of ways, including Euclide
 🔔 Updated frequently.
 
 <p align="center">
-  <img width="820" height="250" src="/pic/Pedigree_of_metric_learning.png">
+  <img width="820" height="250" src="/pic/pedigree.png">
 </p>
+
 
 ---
 ### 1️⃣ Pairwise cost methods
