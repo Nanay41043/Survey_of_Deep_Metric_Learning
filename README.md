@@ -1,6 +1,6 @@
 # 👏 Survey of Deep Metric Learning
 
-Traditionally, they have defined metrics in a variety of ways, including Euclidean distance and cosine similarity.
+Traditionally, they have defined metrics in a variety of ways, including pairwise distance, similarity, and probability distribution.
 
 
 💡 I hope that many people will learn about metric learning through this repository.
@@ -35,13 +35,13 @@ Traditionally, they have defined metrics in a variety of ways, including Euclide
 
 - Hardness-Aware Deep Metric Learning (HDML) (CVPR 2019) [[Paper]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Zheng_Hardness-Aware_Deep_Metric_Learning_CVPR_2019_paper.pdf)[[Tensorflow]](https://github.com/wzzheng/HDML)
 
-- Deep Metric Learning Beyond Binary Supervision (CVPR 2019) [[Paper]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Kim_Deep_Metric_Learning_Beyond_Binary_Supervision_CVPR_2019_paper.pdf)
+- Deep Metric Learning Beyond Binary Supervision (Log-loss) (CVPR 2019) [[Paper]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Kim_Deep_Metric_Learning_Beyond_Binary_Supervision_CVPR_2019_paper.pdf)
 
 - Deep Asymmetric Metric Learning via Rich Relationship Mining (CVPR 2019) [[Paper]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Xu_Deep_Asymmetric_Metric_Learning_via_Rich_Relationship_Mining_CVPR_2019_paper.pdf)
 
 - Signal-to-Noise Ratio: A Robust Distance Metric for Deep Metric Learning (CVPR 2019) [[Paper]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Yuan_Signal-To-Noise_Ratio_A_Robust_Distance_Metric_for_Deep_Metric_Learning_CVPR_2019_paper.pdf)
 
-- Ranked List Loss for Deep Metric Learning (CVPR 2019) [[Paper]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Wang_Ranked_List_Loss_for_Deep_Metric_Learning_CVPR_2019_paper.pdf)
+- Ranked List Loss for Deep Metric Learning (RLL) (CVPR 2019) [[Paper]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Wang_Ranked_List_Loss_for_Deep_Metric_Learning_CVPR_2019_paper.pdf)
 
 - Deep Metric Learning to Rank (CVPR 2019) [[Paper]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Cakir_Deep_Metric_Learning_to_Rank_CVPR_2019_paper.pdf)
 
@@ -52,13 +52,17 @@ Traditionally, they have defined metrics in a variety of ways, including Euclide
 
 - Learning Deep Embeddings with Histogram Loss (NIPS 2016) [[Paper]](https://papers.nips.cc/paper/6464-learning-deep-embeddings-with-histogram-loss)[[Tensorflow]](https://github.com/kridgeway/f-statistic-loss-nips-2018)[[Pytorch]](https://github.com/valerystrizh/pytorch-histogram-loss)[[Caffe]](https://github.com/madkn/HistogramLoss)
 
-- Learning Deep Disentangled Embeddings With the F-Statistic Loss (NIPS 2018) [[Paper]](https://papers.nips.cc/paper/7303-learning-deep-disentangled-embeddings-with-the-f-statistic-loss)[[Tensorflow]](https://github.com/kridgeway/f-statistic-loss-nips-2018)
+- Learning Deep Disentangled Embeddings With the F-Statistic Loss (NIPS 2018) (__double picked__) [[Paper]](https://papers.nips.cc/paper/7303-learning-deep-disentangled-embeddings-with-the-f-statistic-loss)[[Tensorflow]](https://github.com/kridgeway/f-statistic-loss-nips-2018)
 
 
 ---
 ### 3️⃣ Probabilistic methods
 
-- (ongoing)
+- Latent Coincidence Analysis: A Hidden Variable Model for Distance Metric Learning (NIPS 2012) [[Paper]](https://papers.nips.cc/paper/4634-latent-coincidence-analysis-a-hidden-variable-model-for-distance-metric-learning.pdf)
+
+- Information-theoretic Semi-supervised Metric Learning via Entropy Regularization (ICML 2014) [[Paper]](https://icml.cc/Conferences/2012/papers/74.pdf)
+
+- Learning Deep Disentangled Embeddings With the F-Statistic Loss (NIPS 2018) (__double picked__) [[Paper]](https://papers.nips.cc/paper/7303-learning-deep-disentangled-embeddings-with-the-f-statistic-loss)[[Tensorflow]](https://github.com/kridgeway/f-statistic-loss-nips-2018)
 
 
 ---
@@ -167,6 +171,8 @@ Traditionally, they have defined metrics in a variety of ways, including Euclide
 
 #### Face recognition
 
+- Large Scale Metric Learning from Equivalence Constraints (CVPR 2012) [[Paper]](https://www.tugraz.at/fileadmin/user_upload/Institute/ICG/Documents/lrs/pubs/koestinger_cvpr_2012.pdf)
+
 - Fusing Robust Face Region Descriptors via Multiple Metric Learning for Face Recognition in the Wild (CVPR 2013) [[Paper]](https://www.cv-foundation.org/openaccess/content_cvpr_2013/papers/Cui_Fusing_Robust_Face_2013_CVPR_paper.pdf)
 
 
@@ -188,7 +194,7 @@ Traditionally, they have defined metrics in a variety of ways, including Euclide
 ---
 ### 6️⃣ Related works
 
-#### NIPS
+#### Conference
 
 - Distance Metric Learning for Large Margin Nearest Neighbor Classification (NIPS 2005) [[Paper]](https://papers.nips.cc/paper/2795-distance-metric-learning-for-large-margin-nearest-neighbor-classification)[[Journal]](http://jmlr.csail.mit.edu/papers/volume10/weinberger09a/weinberger09a.pdf)[[Code]](https://github.com/johny-c/pylmnn)
 
@@ -210,6 +216,8 @@ Traditionally, they have defined metrics in a variety of ways, including Euclide
   - They deal with probabilistic model based on EM algorithm
 
 - Semi-Crowdsourced Clustering: Generalizing Crowd Labeling by Robust Distance Metric Learning (NIPS 2012) [[Paper]](https://papers.nips.cc/paper/4688-semi-crowdsourced-clustering-generalizing-crowd-labeling-by-robust-distance-metric-learning)
+
+- Similarity Component Analysis (NIPS 2013) [[Paper]](https://papers.nips.cc/paper/5015-similarity-component-analysis.pdf)
 
 - Discriminative Metric Learning by Neighborhood Gerrymandering (NIPS 2014) [[Paper]](https://papers.nips.cc/paper/5385-discriminative-metric-learning-by-neighborhood-gerrymandering)
 
@@ -235,21 +243,13 @@ Traditionally, they have defined metrics in a variety of ways, including Euclide
 
 - Adapted Deep Embeddings: A Synthesis of Methods for k-Shot Inductive Transfer Learning (NIPS 2018) [[Paper]](https://papers.nips.cc/paper/7293-adapted-deep-embeddings-a-synthesis-of-methods-for-k-shot-inductive-transfer-learning)[[Tensorflow]](https://github.com/tylersco/adapted_deep_embeddings)
 
-
-#### CVPR
-
 - A Theoretically Sound Upper Bound on the Triplet Loss for Improving the Efficiency of Deep Distance Metric Learning (CVPR 2019) [[Paper]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Do_A_Theoretically_Sound_Upper_Bound_on_the_Triplet_Loss_for_CVPR_2019_paper.pdf)
-
-
-#### ICLR
 
 - Deep Metric Learning Using Triplet Network (ICLR 2015 workshop) [[Paper]](https://arxiv.org/abs/1412.6622)[[Keras]](https://github.com/Ariel-Perez/triplet-net)[[Torch]](https://github.com/eladhoffer/TripletNet)
 
 - Metric Learning with Adaptive Density Discrimination (Magnet loss) (ICLR 2016) [[Paper]](https://arxiv.org/abs/1511.05939)[[Pytorch1]](https://github.com/vithursant/MagnetLoss-PyTorch)[[Pytorch2]](https://github.com/mbanani/pytorch-magnet-loss)[[Tensorflow]](https://github.com/pumpikano/tf-magnet-loss)
 
 - Learning Wasserstein Embedding (ICLR 2018) [[Paper]](https://openreview.net/pdf?id=SJyEH91A-)[[Keras]](https://github.com/mducoffe/Learning-Wasserstein-Embeddings)
-
-#### ICCV
 
 - From Point to Set: Extend the Learning of Distance Metrics (ICCV 2013) [[Paper]](http://openaccess.thecvf.com/content_iccv_2013/papers/Zhu_From_Point_to_2013_ICCV_paper.pdf)
 
