@@ -286,7 +286,7 @@ Traditionally, they have defined metrics in a variety of ways, including pairwis
 
 - [x] Add Similarity or other variant methods
 
-- [ ] Add Probabilistic methods
+- [x] Add Probabilistic methods
 
 - [x] Add Boost-like methods
 
