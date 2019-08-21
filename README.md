@@ -251,6 +251,10 @@ Traditionally, they have defined metrics in a variety of ways, including pairwis
 
 - Learning Wasserstein Embedding (ICLR 2018) [[Paper]](https://openreview.net/pdf?id=SJyEH91A-)[[Keras]](https://github.com/mducoffe/Learning-Wasserstein-Embeddings)
 
+- __Smoothing the Geometry of Probabilistic Box Embeddings (ICLR 2019)__ [[Paper]](https://openreview.net/pdf?id=H1xSNiRcF7)[[Tensorflow]](https://github.com/Lorraine333/smoothed_box_embedding)
+
+- __Unsupervised DOmain Adaptation for Distance Metric Learning (ICLR 2019)__ [[Paper]](https://openreview.net/pdf?id=BklhAj09K7)
+
 - From Point to Set: Extend the Learning of Distance Metrics (ICCV 2013) [[Paper]](http://openaccess.thecvf.com/content_iccv_2013/papers/Zhu_From_Point_to_2013_ICCV_paper.pdf)
 
 
