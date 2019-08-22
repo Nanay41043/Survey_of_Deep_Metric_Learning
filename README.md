@@ -48,7 +48,7 @@ Traditionally, they have defined metrics in a variety of ways, including pairwis
 - Deep Metric Learning to Rank (CVPR 2019) [[Paper]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Cakir_Deep_Metric_Learning_to_Rank_CVPR_2019_paper.pdf)
 
 ---
-### 2️⃣ Similarity or other variant methods
+### 2️⃣ Distribution or other variant methods
 
 - Deep Metric Learning for Practical Person Re-Identification [[Paper]](https://arxiv.org/abs/1407.4979)[[Tensorflow]](https://github.com/kridgeway/f-statistic-loss-nips-2018)[[Pytorch]](https://github.com/bnulihaixia/Deep_metric)
 
