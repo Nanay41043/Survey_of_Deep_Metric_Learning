@@ -17,6 +17,8 @@ Traditionally, they have defined metrics in a variety of ways, including pairwis
 
 - Dimensionality Reduction by Learning an Invariant Mapping (Contrastive) (CVPR 2006) [[Paper]](http://yann.lecun.com/exdb/publis/pdf/hadsell-chopra-lecun-06.pdf)[[Caffe]](https://github.com/wujiyang/Contrastive-Loss)[[Tensorflow]](https://github.com/ardiya/siamesenetwork-tensorflow)[[Keras]](https://github.com/keras-team/keras/blob/master/examples/mnist_siamese.py)[[Pytorch1]](https://github.com/delijati/pytorch-siamese/blob/master/contrastive.py)[[Pytorch2]](https://github.com/bnulihaixia/Deep_metric)
 
+- From Point to Set: Extend the Learning of Distance Metrics (ICCV 2013) [[Paper]](http://openaccess.thecvf.com/content_iccv_2013/papers/Zhu_From_Point_to_2013_ICCV_paper.pdf)
+
 - FaceNet: A Unified Embedding for Face Recognition and Clustering (Triplet) (CVPR 2015) [[Paper]](https://arxiv.org/abs/1503.03832)[[Tensorflow]](https://github.com/omoindrot/tensorflow-triplet-loss)[[Pytorch]](https://github.com/bnulihaixia/Deep_metric)
 
 - Deep Metric Learning via Lifted Structured Feature Embedding (LSSS) (CVPR 2016) [[Paper]](https://arxiv.org/abs/1511.06452)[[Chainer]](https://github.com/ronekko/deep_metric_learning)[[Caffe]](https://github.com/rksltnl/Deep-Metric-Learning-CVPR16)[[Pytorch1]](https://github.com/zhengxiawu/pytorch_deep_metric_learning)[[Pytorch2]](https://github.com/bnulihaixia/Deep_metric)[[Tensorflow]](https://github.com/kridgeway/f-statistic-loss-nips-2018)
@@ -194,7 +196,7 @@ Traditionally, they have defined metrics in a variety of ways, including pairwis
 ---
 ### 6️⃣ Related works
 
-#### Conference
+#### NIPS
 
 - Distance Metric Learning for Large Margin Nearest Neighbor Classification (NIPS 2005) [[Paper]](https://papers.nips.cc/paper/2795-distance-metric-learning-for-large-margin-nearest-neighbor-classification)[[Journal]](http://jmlr.csail.mit.edu/papers/volume10/weinberger09a/weinberger09a.pdf)[[Code]](https://github.com/johny-c/pylmnn)
 
@@ -245,6 +247,8 @@ Traditionally, they have defined metrics in a variety of ways, including pairwis
 
 - A Theoretically Sound Upper Bound on the Triplet Loss for Improving the Efficiency of Deep Distance Metric Learning (CVPR 2019) [[Paper]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Do_A_Theoretically_Sound_Upper_Bound_on_the_Triplet_Loss_for_CVPR_2019_paper.pdf)
 
+#### ICLR
+
 - Deep Metric Learning Using Triplet Network (ICLR 2015 workshop) [[Paper]](https://arxiv.org/abs/1412.6622)[[Keras]](https://github.com/Ariel-Perez/triplet-net)[[Torch]](https://github.com/eladhoffer/TripletNet)
 
 - Metric Learning with Adaptive Density Discrimination (Magnet loss) (ICLR 2016) [[Paper]](https://arxiv.org/abs/1511.05939)[[Pytorch1]](https://github.com/vithursant/MagnetLoss-PyTorch)[[Pytorch2]](https://github.com/mbanani/pytorch-magnet-loss)[[Tensorflow]](https://github.com/pumpikano/tf-magnet-loss)
@@ -252,10 +256,16 @@ Traditionally, they have defined metrics in a variety of ways, including pairwis
 - Learning Wasserstein Embedding (ICLR 2018) [[Paper]](https://openreview.net/pdf?id=SJyEH91A-)[[Keras]](https://github.com/mducoffe/Learning-Wasserstein-Embeddings)
 
 - __Smoothing the Geometry of Probabilistic Box Embeddings (ICLR 2019)__ [[Paper]](https://openreview.net/pdf?id=H1xSNiRcF7)[[Tensorflow]](https://github.com/Lorraine333/smoothed_box_embedding)
+  - New type of embedding method
 
-- __Unsupervised DOmain Adaptation for Distance Metric Learning (ICLR 2019)__ [[Paper]](https://openreview.net/pdf?id=BklhAj09K7)
+- __Unsupervised Domain Adaptation for Distance Metric Learning (ICLR 2019)__ [[Paper]](https://openreview.net/pdf?id=BklhAj09K7)
 
-- From Point to Set: Extend the Learning of Distance Metrics (ICCV 2013) [[Paper]](http://openaccess.thecvf.com/content_iccv_2013/papers/Zhu_From_Point_to_2013_ICCV_paper.pdf)
+- __ROTATE: Knowledge Graph Embedding bt Relational Rotation in Complex Space (ICLR 2019)__ [[Paper]](https://openreview.net/pdf?id=HkgEQnRqYQ)[[Pytorch]](https://github.com/DeepGraphLearning/KnowledgeGraphEmbedding)
+  - Define relationship by using rotation in vector space
+
+- __Conditional Network Embeddings (ICLR 2019)__ [[Paper]](https://openreview.net/pdf?id=ryepUj0qtX)[[Matlab]](https://bitbucket.org/ghentdatascience/cne)
+  - Add additional information with respect to given structural properties
+
 
 
 ---
