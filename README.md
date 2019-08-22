@@ -275,7 +275,10 @@ Traditionally, they have defined metrics in a variety of ways, including pairwis
 
 - Metric learning tutorial (ICML 2010) [[Video]](https://www.youtube.com/watch?v=06BscIm7TwY)
 
+- Metric Learning and Manifolds: Preserving the Intrinsic Geometry (MS research 2016) [[VIdeo]](https://www.youtube.com/watch?v=kTJoFLcdtn8)
+
 - Visual Search (Image Retrieval) and Metric Learning (CVPR 2018) [[Video]](https://www.youtube.com/watch?v=iW_9fvw6YtI)
+
 
 
 #### Lecture
@@ -285,6 +288,8 @@ Traditionally, they have defined metrics in a variety of ways, including pairwis
 - Metric learning lecture (Waterloo University) [[Video]](https://www.youtube.com/watch?v=GhsHPY3-1zY)
 
 - Understanding of Mahalanobis distance [[Video]](https://www.youtube.com/watch?v=3IdvoI8O9hU)
+
+- Metric Learning by Caltech (2018) [[Video]](https://www.youtube.com/watch?v=M0EjrFQH49o)
 
 
 
@@ -298,9 +303,9 @@ Traditionally, they have defined metrics in a variety of ways, including pairwis
 
 - [x] Add Pairwise cost methods
 
-- [x] Add Similarity or other variant methods
+- [x] Add Distribution or other variant methods
 
-- [x] Add Probabilistic methods
+- [ ] Add Probabilistic methods
 
 - [x] Add Boost-like methods
 
