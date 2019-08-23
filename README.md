@@ -255,16 +255,24 @@ Traditionally, they have defined metrics in a variety of ways, including pairwis
 
 - Learning Wasserstein Embedding (ICLR 2018) [[Paper]](https://openreview.net/pdf?id=SJyEH91A-)[[Keras]](https://github.com/mducoffe/Learning-Wasserstein-Embeddings)
 
-- __Smoothing the Geometry of Probabilistic Box Embeddings (ICLR 2019)__ [[Paper]](https://openreview.net/pdf?id=H1xSNiRcF7)[[Tensorflow]](https://github.com/Lorraine333/smoothed_box_embedding)
+- Smoothing the Geometry of Probabilistic Box Embeddings (ICLR 2019) [[Paper]](https://openreview.net/pdf?id=H1xSNiRcF7)[[Tensorflow]](https://github.com/Lorraine333/smoothed_box_embedding)
   - New type of embedding method
 
-- __Unsupervised Domain Adaptation for Distance Metric Learning (ICLR 2019)__ [[Paper]](https://openreview.net/pdf?id=BklhAj09K7)
+- Unsupervised Domain Adaptation for Distance Metric Learning (ICLR 2019) [[Paper]](https://openreview.net/pdf?id=BklhAj09K7)
 
-- __ROTATE: Knowledge Graph Embedding bt Relational Rotation in Complex Space (ICLR 2019)__ [[Paper]](https://openreview.net/pdf?id=HkgEQnRqYQ)[[Pytorch]](https://github.com/DeepGraphLearning/KnowledgeGraphEmbedding)
+- ROTATE: Knowledge Graph Embedding bt Relational Rotation in Complex Space (ICLR 2019) [[Paper]](https://openreview.net/pdf?id=HkgEQnRqYQ)[[Pytorch]](https://github.com/DeepGraphLearning/KnowledgeGraphEmbedding)
   - Define relationship by using rotation in vector space
 
-- __Conditional Network Embeddings (ICLR 2019)__ [[Paper]](https://openreview.net/pdf?id=ryepUj0qtX)[[Matlab]](https://bitbucket.org/ghentdatascience/cne)
+- Conditional Network Embeddings (ICLR 2019) [[Paper]](https://openreview.net/pdf?id=ryepUj0qtX)[[Matlab]](https://bitbucket.org/ghentdatascience/cne)
   - Add additional information with respect to given structural properties
+
+#### ICML
+
+- Gromov-Wasserstein Learning for Graph Matching and Node Embedding (ICML 2019) [[Paper]](https://arxiv.org/pdf/1901.06003.pdf)[[Pytorch]](https://github.com/HongtengXu/gwl)
+ - Propose novel framework btw. relation graph and embedding space
+
+- Hyperbolic Disk Embeddings for Directed Acyclic Graphs (ICML 2019) [[Paper]](https://arxiv.org/pdf/1902.04335.pdf)[[Code]](https://github.com/lapras-inc/disk-embedding)
+ - Propose embedding framework into quasi-metric space
 
 
 
