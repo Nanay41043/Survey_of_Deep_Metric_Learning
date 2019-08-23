@@ -269,12 +269,10 @@ Traditionally, they have defined metrics in a variety of ways, including pairwis
 #### ICML
 
 - Gromov-Wasserstein Learning for Graph Matching and Node Embedding (ICML 2019) [[Paper]](https://arxiv.org/pdf/1901.06003.pdf)[[Pytorch]](https://github.com/HongtengXu/gwl)
-
- - Propose novel framework btw. relation graph and embedding space
+  - Propose novel framework btw. relation graph and embedding space
 
 - Hyperbolic Disk Embeddings for Directed Acyclic Graphs (ICML 2019) [[Paper]](https://arxiv.org/pdf/1902.04335.pdf)[[Code]](https://github.com/lapras-inc/disk-embedding)
-
- - Propose embedding framework into quasi-metric space
+  - Propose embedding framework into quasi-metric space
 
 
 
