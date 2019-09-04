@@ -50,7 +50,9 @@ Traditionally, they have defined metrics in a variety of ways, including pairwis
 ---
 ### 2️⃣ Distribution or other variant methods
 
-- Deep Metric Learning for Practical Person Re-Identification [[Paper]](https://arxiv.org/abs/1407.4979)[[Tensorflow]](https://github.com/kridgeway/f-statistic-loss-nips-2018)[[Pytorch]](https://github.com/bnulihaixia/Deep_metric)
+- Image Set Classification Using Holistic Multiple Order Statistics Features and Localized Multi-Kernel Metric Learning (ICCV 2013) [[Paper]](http://openaccess.thecvf.com/content_iccv_2013/papers/Lu_Image_Set_Classification_2013_ICCV_paper.pdf)
+
+- Deep Metric Learning for Practical Person Re-Identification (ICPR 2014) [[Paper]](https://arxiv.org/abs/1407.4979)[[Tensorflow]](https://github.com/kridgeway/f-statistic-loss-nips-2018)[[Pytorch]](https://github.com/bnulihaixia/Deep_metric)
 
 - Learning Deep Embeddings with Histogram Loss (NIPS 2016) [[Paper]](https://papers.nips.cc/paper/6464-learning-deep-embeddings-with-histogram-loss)[[Tensorflow]](https://github.com/kridgeway/f-statistic-loss-nips-2018)[[Pytorch]](https://github.com/valerystrizh/pytorch-histogram-loss)[[Caffe]](https://github.com/madkn/HistogramLoss)
 
@@ -178,6 +180,8 @@ Traditionally, they have defined metrics in a variety of ways, including pairwis
 - Large Scale Metric Learning from Equivalence Constraints (CVPR 2012) [[Paper]](https://www.tugraz.at/fileadmin/user_upload/Institute/ICG/Documents/lrs/pubs/koestinger_cvpr_2012.pdf)
 
 - Fusing Robust Face Region Descriptors via Multiple Metric Learning for Face Recognition in the Wild (CVPR 2013) [[Paper]](https://www.cv-foundation.org/openaccess/content_cvpr_2013/papers/Cui_Fusing_Robust_Face_2013_CVPR_paper.pdf)
+
+- Similarity Metric Learning for Face Recognition (ICCV 2013) [[Paper]](http://openaccess.thecvf.com/content_iccv_2013/papers/Cao_Similarity_Metric_Learning_2013_ICCV_paper.pdf)
 
 
 #### Point-cloud segmentation
