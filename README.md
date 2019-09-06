@@ -174,6 +174,10 @@ Traditionally, they have defined metrics in a variety of ways, including pairwis
 
 - Discriminative Deep Metric Learning for Face Verification in the Wild (CVPR 2014) [[Paper]](http://openaccess.thecvf.com/content_cvpr_2014/papers/Hu_Discriminative_Deep_Metric_2014_CVPR_paper.pdf)
 
+- Fantope Regularization in Metric Learning (CVPR 2014) [[Paper]](http://openaccess.thecvf.com/content_cvpr_2014/papers/Law_Fantope_Regularization_in_2014_CVPR_paper.pdf)
+
+- Deep Transfer Metric Learning (CVPR 2015) [[Paper]](http://openaccess.thecvf.com/content_cvpr_2015/papers/Hu_Deep_Transfer_Metric_2015_CVPR_paper.pdf)
+
 
 #### Face recognition
 
@@ -182,6 +186,8 @@ Traditionally, they have defined metrics in a variety of ways, including pairwis
 - Fusing Robust Face Region Descriptors via Multiple Metric Learning for Face Recognition in the Wild (CVPR 2013) [[Paper]](https://www.cv-foundation.org/openaccess/content_cvpr_2013/papers/Cui_Fusing_Robust_Face_2013_CVPR_paper.pdf)
 
 - Similarity Metric Learning for Face Recognition (ICCV 2013) [[Paper]](http://openaccess.thecvf.com/content_iccv_2013/papers/Cao_Similarity_Metric_Learning_2013_ICCV_paper.pdf)
+
+- Projection Metric Learning on Grassmann Manifold with Application to Video based Face Recognition (CVPR 2015) [[Paper]](http://openaccess.thecvf.com/content_cvpr_2015/papers/Huang_Projection_Metric_Learning_2015_CVPR_paper.pdf)
 
 
 #### Point-cloud segmentation
@@ -200,7 +206,7 @@ Traditionally, they have defined metrics in a variety of ways, including pairwis
 
 
 ---
-### 6️⃣ Related works
+### 6️⃣ Related works (conference)
 
 #### NIPS
 
