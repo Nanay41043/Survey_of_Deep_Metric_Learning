@@ -205,6 +205,10 @@ Traditionally, they have defined metrics in a variety of ways, including pairwis
 - RepMet: Representative-based metric learning for classification and few-shot object detection (CVPR 2019) [[Paper]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Karlinsky_RepMet_Representative-Based_Metric_Learning_for_Classification_and_Few-Shot_Object_Detection_CVPR_2019_paper.pdf) [[Pytorch]](https://github.com/HaydenFaulkner/pytorch.repmet)
 
 
+#### 3D reconstruction
+
+- Learning Embedding of 3D models with Quadric Loss (BMVC 2019) [[Paper]](https://bmvc2019.org/wp-content/uploads/papers/0452-paper.pdf)[[Pytorch]](https://github.com/nitinagarwal/QuadricLoss)
+
 ---
 ### 6️⃣ Related works (conference)
 
