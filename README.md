@@ -269,6 +269,8 @@ Traditionally, they have defined metrics in a variety of ways, including pairwis
 
 - Metric Learning with Adaptive Density Discrimination (Magnet loss) (ICLR 2016) [[Paper]](https://arxiv.org/abs/1511.05939)[[Pytorch1]](https://github.com/vithursant/MagnetLoss-PyTorch)[[Pytorch2]](https://github.com/mbanani/pytorch-magnet-loss)[[Tensorflow]](https://github.com/pumpikano/tf-magnet-loss)
 
+- Semi-supervised Deep Learning by Metric Embedding (ICLRW 2017) [[Paper]](https://openreview.net/pdf?id=r1R5Z19le)[[Torch(Lua)]](https://github.com/eladhoffer/SemiSupContrast)
+
 - Learning Wasserstein Embedding (ICLR 2018) [[Paper]](https://openreview.net/pdf?id=SJyEH91A-)[[Keras]](https://github.com/mducoffe/Learning-Wasserstein-Embeddings)
 
 - Smoothing the Geometry of Probabilistic Box Embeddings (ICLR 2019) [[Paper]](https://openreview.net/pdf?id=H1xSNiRcF7)[[Tensorflow]](https://github.com/Lorraine333/smoothed_box_embedding)
