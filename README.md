@@ -56,7 +56,7 @@ Traditionally, they have defined metrics in a variety of ways, including pairwis
 
 - Learning Deep Embeddings with Histogram Loss (NIPS 2016) [[Paper]](https://papers.nips.cc/paper/6464-learning-deep-embeddings-with-histogram-loss)[[Tensorflow]](https://github.com/kridgeway/f-statistic-loss-nips-2018)[[Pytorch]](https://github.com/valerystrizh/pytorch-histogram-loss)[[Caffe]](https://github.com/madkn/HistogramLoss)
 
-- Learning Deep Disentangled Embeddings With the F-Statistic Loss (NIPS 2018) (__double picked__) [[Paper]](https://papers.nips.cc/paper/7303-learning-deep-disentangled-embeddings-with-the-f-statistic-loss)[[Tensorflow]](https://github.com/kridgeway/f-statistic-loss-nips-2018)
+- Learning Deep Disentangled Embeddings With the F-Statistic Loss (NIPS 2018) [[Paper]](https://papers.nips.cc/paper/7303-learning-deep-disentangled-embeddings-with-the-f-statistic-loss)[[Tensorflow]](https://github.com/kridgeway/f-statistic-loss-nips-2018)
 
 - Metric Learning with HORDE: High-Order Regularizer for Deep Embeddings (ICCV 2019) [[Paper]](https://arxiv.org/pdf/1908.02735.pdf)[[Code]](https://github.com/pierre-jacob/ICCV2019-Horde)
 
@@ -68,7 +68,7 @@ Traditionally, they have defined metrics in a variety of ways, including pairwis
 
 - Information-theoretic Semi-supervised Metric Learning via Entropy Regularization (ICML 2014) [[Paper]](https://icml.cc/Conferences/2012/papers/74.pdf)
 
-- Learning Deep Disentangled Embeddings With the F-Statistic Loss (NIPS 2018) (__double picked__) [[Paper]](https://papers.nips.cc/paper/7303-learning-deep-disentangled-embeddings-with-the-f-statistic-loss)[[Tensorflow]](https://github.com/kridgeway/f-statistic-loss-nips-2018)
+- Learning Deep Disentangled Embeddings With the F-Statistic Loss (NIPS 2018) [[Paper]](https://papers.nips.cc/paper/7303-learning-deep-disentangled-embeddings-with-the-f-statistic-loss)[[Tensorflow]](https://github.com/kridgeway/f-statistic-loss-nips-2018)
 
 
 ---
