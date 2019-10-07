@@ -291,6 +291,11 @@ Traditionally, they have defined metrics in a variety of ways, including pairwis
 
 - Hyperbolic Disk Embeddings for Directed Acyclic Graphs (ICML 2019) [[Paper]](https://arxiv.org/pdf/1902.04335.pdf)[[Code]](https://github.com/lapras-inc/disk-embedding)
   - Propose embedding framework into quasi-metric space
+  
+
+#### ICIP
+
+- Quadruplet Selection Methods for Deep Embedding Learning (ICIP 2019) [[Paper]](https://arxiv.org/pdf/1907.09245.pdf)
 
 
 
