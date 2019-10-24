@@ -47,7 +47,7 @@ Traditionally, they have defined metrics in a variety of ways, including pairwis
 
 - Deep Metric Learning to Rank (CVPR 2019) [[Paper]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Cakir_Deep_Metric_Learning_to_Rank_CVPR_2019_paper.pdf)
 
-- SoftTriple Loss: Deep Metric Learning Without Triplet Sampling (ICCV 2019) [[Paper]](http://openaccess.thecvf.com/content_ICCV_2019/papers/Qian_SoftTriple_Loss_Deep_Metric_Learning_Without_Triplet_Sampling_ICCV_2019_paper.pdf)
+- SoftTriple Loss: Deep Metric Learning Without Triplet Sampling (ICCV 2019) [[Paper]](http://openaccess.thecvf.com/content_ICCV_2019/papers/Qian_SoftTriple_Loss_Deep_Metric_Learning_Without_Triplet_Sampling_ICCV_2019_paper.pdf)[[Tensorflow]](https://github.com/geonm/tf_SoftTriple_loss)
 
 ---
 ### 2️⃣ Distribution or other variant methods
