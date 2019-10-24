@@ -47,6 +47,8 @@ Traditionally, they have defined metrics in a variety of ways, including pairwis
 
 - Deep Metric Learning to Rank (CVPR 2019) [[Paper]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Cakir_Deep_Metric_Learning_to_Rank_CVPR_2019_paper.pdf)
 
+- SoftTriple Loss: Deep Metric Learning Without Triplet Sampling (ICCV 2019) [[Paper]](http://openaccess.thecvf.com/content_ICCV_2019/papers/Qian_SoftTriple_Loss_Deep_Metric_Learning_Without_Triplet_Sampling_ICCV_2019_paper.pdf)
+
 ---
 ### 2️⃣ Distribution or other variant methods
 
@@ -59,6 +61,10 @@ Traditionally, they have defined metrics in a variety of ways, including pairwis
 - Learning Deep Disentangled Embeddings With the F-Statistic Loss (NIPS 2018) [[Paper]](https://papers.nips.cc/paper/7303-learning-deep-disentangled-embeddings-with-the-f-statistic-loss)[[Tensorflow]](https://github.com/kridgeway/f-statistic-loss-nips-2018)
 
 - Metric Learning with HORDE: High-Order Regularizer for Deep Embeddings (ICCV 2019) [[Paper]](https://arxiv.org/pdf/1908.02735.pdf)[[Code]](https://github.com/pierre-jacob/ICCV2019-Horde)
+
+- MIC: Mining Interclass Characteristics for Improved Metric Learning (ICCV 2019) [[Paper]](http://openaccess.thecvf.com/content_ICCV_2019/papers/Roth_MIC_Mining_Interclass_Characteristics_for_Improved_Metric_Learning_ICCV_2019_paper.pdf)[[Pytorch]](https://github.com/Confusezius/metric-learning-mining-interclass-characteristics)
+
+- Deep Meta Metric Learning (ICCV 2019) [[Paper]](http://openaccess.thecvf.com/content_ICCV_2019/papers/Chen_Deep_Meta_Metric_Learning_ICCV_2019_paper.pdf)[[Pytorch]](https://github.com/CHENGY12/DMML)
 
 
 ---
@@ -96,10 +102,14 @@ Traditionally, they have defined metrics in a variety of ways, including pairwis
 
 - Distilled Person Re-identification: Towards a More Scalable System (CVPR 2019) [[Paper]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Wu_Distilled_Person_Re-Identification_Towards_a_More_Scalable_System_CVPR_2019_paper.pdf)
 
+- Deep Metric Learning with Tuplet Margin Loss (ICCV 2019) [[Paper]](http://openaccess.thecvf.com/content_ICCV_2019/papers/Yu_Deep_Metric_Learning_With_Tuplet_Margin_Loss_ICCV_2019_paper.pdf)
+
+
+
 
 ---
 ### 5️⃣ Applications
-#### Person re-identification
+#### Re-identification
 
 - Person Re-Identification using Kernel-based Metric Learning Methods (ECCV 2014) [[Paper]](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.673.1976&rep=rep1&type=pdf)[[Matlab]](https://github.com/NEU-Gou/kernel-metric-learning-reid)
 
@@ -169,6 +179,8 @@ Traditionally, they have defined metrics in a variety of ways, including pairwis
 
 - Interaction-and-Aggregation Network for Person Re-identification (CVPR 2019) [[Paper]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Hou_Interaction-And-Aggregation_Network_for_Person_Re-Identification_CVPR_2019_paper.pdf)
 
+- Vehicle Re-identification with Viewpoint-aware Metric Learning (ICCV 2019) [[Paper]](http://openaccess.thecvf.com/content_ICCV_2019/papers/Chu_Vehicle_Re-Identification_With_Viewpoint-Aware_Metric_Learning_ICCV_2019_paper.pdf)[[Code]](https://github.com/RyanRuihanG/VANet_labels)
+
 
 #### Face verification
 
@@ -190,9 +202,11 @@ Traditionally, they have defined metrics in a variety of ways, including pairwis
 - Projection Metric Learning on Grassmann Manifold with Application to Video based Face Recognition (CVPR 2015) [[Paper]](http://openaccess.thecvf.com/content_cvpr_2015/papers/Huang_Projection_Metric_Learning_2015_CVPR_paper.pdf)
 
 
-#### Point-cloud segmentation
+#### Segmentation
 
 - Point Cloud Oversegmentation with Graph-Structured Deep Metric Learning (CVPR 2019) [[Paper]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Landrieu_Point_Cloud_Oversegmentation_With_Graph-Structured_Deep_Metric_Learning_CVPR_2019_paper.pdf)
+
+- 3D Instance Segmentation via Multi-Task Metric Learning (ICCV 2019) [[Paper]](http://openaccess.thecvf.com/content_ICCV_2019/papers/Lahoud_3D_Instance_Segmentation_via_Multi-Task_Metric_Learning_ICCV_2019_paper.pdf)
 
 
 #### Image registration
