@@ -13,6 +13,34 @@ Traditionally, they have defined metrics in a variety of ways, including pairwis
 
 
 ---
+## Contents
+
+- [Pairwise cost methods](#pcm)
+- [Distribution or other variant methods](#dvm)
+- [Probabilistic methods](#pm)
+- [Boost-like methods](#bm)
+- [Applications](#app)
+  - [Re-identification](#reid)
+  - [Face verification](#face_ver)
+  - [Face recognition](#face_rec)
+  - [Segmentation](#seg)
+  - [Image registration](#regist)
+  - [Few-shot object detection](#few-shot)
+  - [3D reconstruction](#3d_recon)
+- [Related works](#related)
+  - [Neurips](#neurips)
+  - [ICLR](#iclr)
+  - [ICML](#icml)
+  - [ICIP](#icip)
+- [Study materials](#study)
+  - [Tutorial](#tutorial)
+  - [Lecture](#lecture)
+  - [Repository](#repo)
+  
+  
+---
+<a name="pcm" />
+
 ### 1️⃣ Pairwise cost methods
 
 - Dimensionality Reduction by Learning an Invariant Mapping (__Contrastive__) (CVPR 2006) [[Paper]](http://yann.lecun.com/exdb/publis/pdf/hadsell-chopra-lecun-06.pdf)[[Caffe]](https://github.com/wujiyang/Contrastive-Loss)[[Tensorflow]](https://github.com/ardiya/siamesenetwork-tensorflow)[[Keras]](https://github.com/keras-team/keras/blob/master/examples/mnist_siamese.py)[[Pytorch1]](https://github.com/delijati/pytorch-siamese/blob/master/contrastive.py)[[Pytorch2]](https://github.com/bnulihaixia/Deep_metric)
@@ -48,6 +76,8 @@ Traditionally, they have defined metrics in a variety of ways, including pairwis
 - Curvilinear Distance Metric Learning (__CDML__) (NIPS 2019) [[Paper]](https://papers.nips.cc/paper/8675-curvilinear-distance-metric-learning.pdf)
 
 ---
+<a name="dvm" />
+
 ### 2️⃣ Distribution or other variant methods
 
 - Image Set Classification Using Holistic Multiple Order Statistics Features and Localized Multi-Kernel Metric Learning (ICCV 2013) [[Paper]](http://openaccess.thecvf.com/content_iccv_2013/papers/Lu_Image_Set_Classification_2013_ICCV_paper.pdf)
@@ -66,6 +96,8 @@ Traditionally, they have defined metrics in a variety of ways, including pairwis
 
 
 ---
+<a name="pm" />
+
 ### 3️⃣ Probabilistic methods
 
 - Latent Coincidence Analysis: A Hidden Variable Model for Distance Metric Learning (NIPS 2012) [[Paper]](https://papers.nips.cc/paper/4634-latent-coincidence-analysis-a-hidden-variable-model-for-distance-metric-learning.pdf)
@@ -76,6 +108,8 @@ Traditionally, they have defined metrics in a variety of ways, including pairwis
 
 
 ---
+<a name="bm" />
+
 ### 4️⃣ Boost-like methods
 
 - BIER-Boosting Independent Embeddings Robustly (ICCV 2017) [[Paper]](http://openaccess.thecvf.com/content_ICCV_2017/papers/Opitz_BIER_-_Boosting_ICCV_2017_paper.pdf)[[Tensorflow]](https://github.com/mop/bier)
@@ -108,9 +142,13 @@ Traditionally, they have defined metrics in a variety of ways, including pairwis
 
 
 
-
 ---
+<a name="app" />
+
 ### 5️⃣ Applications
+
+<a name="reid" />
+
 #### Re-identification
 
 - Person Re-Identification using Kernel-based Metric Learning Methods (ECCV 2014) [[Paper]](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.673.1976&rep=rep1&type=pdf)[[Matlab]](https://github.com/NEU-Gou/kernel-metric-learning-reid)
@@ -184,6 +222,8 @@ Traditionally, they have defined metrics in a variety of ways, including pairwis
 - Vehicle Re-identification with Viewpoint-aware Metric Learning (ICCV 2019) [[Paper]](http://openaccess.thecvf.com/content_ICCV_2019/papers/Chu_Vehicle_Re-Identification_With_Viewpoint-Aware_Metric_Learning_ICCV_2019_paper.pdf)[[Code]](https://github.com/RyanRuihanG/VANet_labels)
 
 
+<a name="face_ver" />
+
 #### Face verification
 
 - Discriminative Deep Metric Learning for Face Verification in the Wild (CVPR 2014) [[Paper]](http://openaccess.thecvf.com/content_cvpr_2014/papers/Hu_Discriminative_Deep_Metric_2014_CVPR_paper.pdf)
@@ -192,6 +232,8 @@ Traditionally, they have defined metrics in a variety of ways, including pairwis
 
 - Deep Transfer Metric Learning (CVPR 2015) [[Paper]](http://openaccess.thecvf.com/content_cvpr_2015/papers/Hu_Deep_Transfer_Metric_2015_CVPR_paper.pdf)
 
+
+<a name="face_rec" />
 
 #### Face recognition
 
@@ -204,6 +246,8 @@ Traditionally, they have defined metrics in a variety of ways, including pairwis
 - Projection Metric Learning on Grassmann Manifold with Application to Video based Face Recognition (CVPR 2015) [[Paper]](http://openaccess.thecvf.com/content_cvpr_2015/papers/Huang_Projection_Metric_Learning_2015_CVPR_paper.pdf)
 
 
+<a name="seg" />
+
 #### Segmentation
 
 - Point Cloud Oversegmentation with Graph-Structured Deep Metric Learning (CVPR 2019) [[Paper]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Landrieu_Point_Cloud_Oversegmentation_With_Graph-Structured_Deep_Metric_Learning_CVPR_2019_paper.pdf)
@@ -211,24 +255,34 @@ Traditionally, they have defined metrics in a variety of ways, including pairwis
 - 3D Instance Segmentation via Multi-Task Metric Learning (ICCV 2019) [[Paper]](http://openaccess.thecvf.com/content_ICCV_2019/papers/Lahoud_3D_Instance_Segmentation_via_Multi-Task_Metric_Learning_ICCV_2019_paper.pdf)
 
 
+<a name="regist" />
+
 #### Image registration
 
 - Metric Learning for Image Registration (CVPR 2019) [[Paper]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Niethammer_Metric_Learning_for_Image_Registration_CVPR_2019_paper.pdf)
 
+
+<a name="few-shot" />
 
 #### Few-shot object detection
 
 - RepMet: Representative-based metric learning for classification and few-shot object detection (CVPR 2019) [[Paper]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Karlinsky_RepMet_Representative-Based_Metric_Learning_for_Classification_and_Few-Shot_Object_Detection_CVPR_2019_paper.pdf) [[Pytorch]](https://github.com/HaydenFaulkner/pytorch.repmet)
 
 
+<a name="3d_recon" />
+
 #### 3D reconstruction
 
 - Learning Embedding of 3D models with Quadric Loss (BMVC 2019) [[Paper]](https://bmvc2019.org/wp-content/uploads/papers/0452-paper.pdf)[[Pytorch]](https://github.com/nitinagarwal/QuadricLoss)
 
 ---
-### 6️⃣ Related works (conference)
+<a name="related" />
 
-#### NIPS
+### 6️⃣ Related works
+
+<a name="neurips" />
+
+#### Neurips
 
 - Distance Metric Learning for Large Margin Nearest Neighbor Classification (NIPS 2005) [[Paper]](https://papers.nips.cc/paper/2795-distance-metric-learning-for-large-margin-nearest-neighbor-classification)[[Journal]](http://jmlr.csail.mit.edu/papers/volume10/weinberger09a/weinberger09a.pdf)[[Code]](https://github.com/johny-c/pylmnn)
 
@@ -279,6 +333,8 @@ Traditionally, they have defined metrics in a variety of ways, including pairwis
 
 - A Theoretically Sound Upper Bound on the Triplet Loss for Improving the Efficiency of Deep Distance Metric Learning (CVPR 2019) [[Paper]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Do_A_Theoretically_Sound_Upper_Bound_on_the_Triplet_Loss_for_CVPR_2019_paper.pdf)
 
+<a name="iclr" />
+
 #### ICLR
 
 - Deep Metric Learning Using Triplet Network (ICLR 2015 workshop) [[Paper]](https://arxiv.org/abs/1412.6622)[[Keras]](https://github.com/Ariel-Perez/triplet-net)[[Torch]](https://github.com/eladhoffer/TripletNet)
@@ -300,6 +356,8 @@ Traditionally, they have defined metrics in a variety of ways, including pairwis
 - Conditional Network Embeddings (ICLR 2019) [[Paper]](https://openreview.net/pdf?id=ryepUj0qtX)[[Matlab]](https://bitbucket.org/ghentdatascience/cne)
   - Add additional information with respect to given structural properties
 
+<a name="icml" />
+
 #### ICML
 
 - Gromov-Wasserstein Learning for Graph Matching and Node Embedding (ICML 2019) [[Paper]](https://arxiv.org/pdf/1901.06003.pdf)[[Pytorch]](https://github.com/HongtengXu/gwl)
@@ -309,6 +367,8 @@ Traditionally, they have defined metrics in a variety of ways, including pairwis
   - Propose embedding framework into quasi-metric space
   
 
+<a name="icip" />
+
 #### ICIP
 
 - Quadruplet Selection Methods for Deep Embedding Learning (ICIP 2019) [[Paper]](https://arxiv.org/pdf/1907.09245.pdf)
@@ -316,7 +376,11 @@ Traditionally, they have defined metrics in a variety of ways, including pairwis
 
 
 ---
+<a name="study" />
+
 ### 7️⃣ Study materials
+
+<a name="tutorial" />
 
 #### Tutorial
 
@@ -327,6 +391,7 @@ Traditionally, they have defined metrics in a variety of ways, including pairwis
 - Visual Search (Image Retrieval) and Metric Learning (CVPR 2018) [[Video]](https://www.youtube.com/watch?v=iW_9fvw6YtI)
 
 
+<a name="lecture" />
 
 #### Lecture
 
@@ -339,6 +404,7 @@ Traditionally, they have defined metrics in a variety of ways, including pairwis
 - Metric Learning by Caltech (2018) [[Video]](https://www.youtube.com/watch?v=M0EjrFQH49o)
 
 
+<a name="repo" />
 
 #### Repository
 
