@@ -116,6 +116,8 @@ Traditionally, they have defined metrics in a variety of ways, including pairwis
 
 - Hard-Aware Deeply Cascaded Embedding (ICCV 2017) [[Paper]](http://openaccess.thecvf.com/content_ICCV_2017/papers/Yuan_Hard-Aware_Deeply_Cascaded_ICCV_2017_paper.pdf)[[Caffe]](https://github.com/PkuRainBow/HardAwareDeeplyCascadedEmbedding.caffe)
 
+- Learning Spread-out Local Feature Descriptors (ICCV 2017) [[Paper]](http://openaccess.thecvf.com/content_ICCV_2017/papers/Zhang_Learning_Spread-Out_Local_ICCV_2017_paper.pdf)
+
 - Deep Adversarial Metric Learning (CVPR 2018) [[Paper]](http://openaccess.thecvf.com/content_cvpr_2018/papers/Duan_Deep_Adversarial_Metric_CVPR_2018_paper.pdf)[[Chainer]](https://github.com/duanyq14/DAML)
 
 - Deep Randomized Ensembles for Metric Learning (ECCV 2018) [[Paper]](https://arxiv.org/abs/1808.04469)[[Pytorch]](https://github.com/littleredxh/DREML)
