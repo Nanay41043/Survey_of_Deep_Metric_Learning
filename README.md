@@ -266,9 +266,11 @@ Traditionally, they have defined metrics in a variety of ways, including pairwis
 
 <a name="few-shot" />
 
-#### Few-shot object detection
+#### Few-shot approach
 
 - RepMet: Representative-based metric learning for classification and few-shot object detection (CVPR 2019) [[Paper]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Karlinsky_RepMet_Representative-Based_Metric_Learning_for_Classification_and_Few-Shot_Object_Detection_CVPR_2019_paper.pdf) [[Pytorch]](https://github.com/HaydenFaulkner/pytorch.repmet)
+
+- Revisiting Metric Learning for Few-Shot Image Classification (arXiv) [[Paper]](https://arxiv.org/pdf/1907.03123.pdf)
 
 
 <a name="3d_recon" />
