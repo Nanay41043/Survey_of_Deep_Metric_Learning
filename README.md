@@ -25,7 +25,7 @@ Traditionally, they have defined metrics in a variety of ways, including pairwis
   - [Face recognition](#face_rec)
   - [Segmentation](#seg)
   - [Image registration](#regist)
-  - [Few-shot object detection](#few-shot)
+  - [Few-shot approach](#few-shot)
   - [3D reconstruction](#3d_recon)
 - [Related works](#related)
   - [Neurips](#neurips)
