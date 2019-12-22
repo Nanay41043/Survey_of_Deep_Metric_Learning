@@ -301,6 +301,7 @@ Traditionally, they have defined metrics in a variety of ways, including pairwis
 - Hamming Distance Metric Learning (NIPS 2012) [[Paper]](https://papers.nips.cc/paper/4808-hamming-distance-metric-learning)[[Matlab]](https://github.com/norouzi/hdml)
 
 - Parametric Local Metric Learning for Nearest Neighbor Classification (NIPS 2012) [[Paper]](http://papers.nips.cc/paper/4818-parametric-local-metric-learning-for-nearest-neighbor-classification)
+ * A representative approach of local metric learning
 
 - Non-linear Metric Learning (NIPS 2012) [[Paper]](https://papers.nips.cc/paper/4840-non-linear-metric-learning)
 
