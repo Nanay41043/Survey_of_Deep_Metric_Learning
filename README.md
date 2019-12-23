@@ -289,6 +289,7 @@ Traditionally, they have defined metrics in a variety of ways, including pairwis
 #### Neurips
 
 - Distance Metric Learning for Large Margin Nearest Neighbor Classification (NIPS 2005) [[Paper]](https://papers.nips.cc/paper/2795-distance-metric-learning-for-large-margin-nearest-neighbor-classification)[[Journal]](http://jmlr.csail.mit.edu/papers/volume10/weinberger09a/weinberger09a.pdf)[[Code]](https://github.com/johny-c/pylmnn)
+ - First approach of local metric learning
 
 - Metric Learning by Collapsing Classes (NIPS 2005) [[Paper]](https://papers.nips.cc/paper/2947-metric-learning-by-collapsing-classes)
 
