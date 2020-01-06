@@ -3,7 +3,7 @@
 Traditionally, they have defined metrics in a variety of ways, including pairwise distance, similarity, and probability distribution.
 
 
-💡 Note that most of all approaches in survey are included in `supervised global distance metric learning`.
+💡 I hope many researchers will be able to do good research thanks to this repository.
 
 🔔 Updated frequently.
 
