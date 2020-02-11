@@ -63,13 +63,13 @@ Traditionally, they have defined metrics in a variety of ways, including pairwis
 
 - Deep Metric Learning by Online Soft Mining and Class-Aware Attention (AAAI 2019) [[Paper]](https://arxiv.org/pdf/1811.01459.pdf)
 
-- Deep Metric Learning Beyond Binary Supervision (__Log_ratio__) (CVPR 2019) [[Paper]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Kim_Deep_Metric_Learning_Beyond_Binary_Supervision_CVPR_2019_paper.pdf)
+- Deep Metric Learning Beyond Binary Supervision (__Log_ratio__) (CVPR 2019) [[Paper]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Kim_Deep_Metric_Learning_Beyond_Binary_Supervision_CVPR_2019_paper.pdf)[[Pytorch]](https://github.com/tjddus9597/Beyond-Binary-Supervision-CVPR19)
 
 - A Theoretically Sound Upper Bound on the Triplet Loss for Improving the Efficiency of Deep Distance Metric Learning (CVPR 2019) [[Paper]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Do_A_Theoretically_Sound_Upper_Bound_on_the_Triplet_Loss_for_CVPR_2019_paper.pdf)
 
-- Ranked List Loss for Deep Metric Learning (__RLL__) (CVPR 2019) [[Paper]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Wang_Ranked_List_Loss_for_Deep_Metric_Learning_CVPR_2019_paper.pdf)
+- Ranked List Loss for Deep Metric Learning (__RLL__) (CVPR 2019) [[Paper]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Wang_Ranked_List_Loss_for_Deep_Metric_Learning_CVPR_2019_paper.pdf)[[Matlab]](https://github.com/XinshaoAmosWang/Ranked-List-Loss-for-DML)
 
-- Deep Metric Learning to Rank (CVPR 2019) [[Paper]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Cakir_Deep_Metric_Learning_to_Rank_CVPR_2019_paper.pdf)
+- Deep Metric Learning to Rank (__FastAP__) (CVPR 2019) [[Paper]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Cakir_Deep_Metric_Learning_to_Rank_CVPR_2019_paper.pdf)[[Matlab]](https://github.com/kunhe/FastAP-metric-learning)
 
 - SoftTriple Loss: Deep Metric Learning Without Triplet Sampling (__Soft-Trip__) (ICCV 2019) [[Paper]](http://openaccess.thecvf.com/content_ICCV_2019/papers/Qian_SoftTriple_Loss_Deep_Metric_Learning_Without_Triplet_Sampling_ICCV_2019_paper.pdf)[[Tensorflow]](https://github.com/geonm/tf_SoftTriple_loss)
 
