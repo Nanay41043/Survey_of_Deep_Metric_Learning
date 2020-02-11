@@ -63,9 +63,9 @@ Traditionally, they have defined metrics in a variety of ways, including pairwis
 
 - Deep Metric Learning by Online Soft Mining and Class-Aware Attention (AAAI 2019) [[Paper]](https://arxiv.org/pdf/1811.01459.pdf)
 
-- Deep Metric Learning Beyond Binary Supervision (__Log-loss__) (CVPR 2019) [[Paper]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Kim_Deep_Metric_Learning_Beyond_Binary_Supervision_CVPR_2019_paper.pdf)
+- Deep Metric Learning Beyond Binary Supervision (__Log_ratio__) (CVPR 2019) [[Paper]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Kim_Deep_Metric_Learning_Beyond_Binary_Supervision_CVPR_2019_paper.pdf)
 
-- Signal-to-Noise Ratio: A Robust Distance Metric for Deep Metric Learning (__DSML__) (CVPR 2019) [[Paper]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Yuan_Signal-To-Noise_Ratio_A_Robust_Distance_Metric_for_Deep_Metric_Learning_CVPR_2019_paper.pdf)
+- A Theoretically Sound Upper Bound on the Triplet Loss for Improving the Efficiency of Deep Distance Metric Learning (CVPR 2019) [[Paper]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Do_A_Theoretically_Sound_Upper_Bound_on_the_Triplet_Loss_for_CVPR_2019_paper.pdf)
 
 - Ranked List Loss for Deep Metric Learning (__RLL__) (CVPR 2019) [[Paper]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Wang_Ranked_List_Loss_for_Deep_Metric_Learning_CVPR_2019_paper.pdf)
 
@@ -73,7 +73,7 @@ Traditionally, they have defined metrics in a variety of ways, including pairwis
 
 - SoftTriple Loss: Deep Metric Learning Without Triplet Sampling (__Soft-Trip__) (ICCV 2019) [[Paper]](http://openaccess.thecvf.com/content_ICCV_2019/papers/Qian_SoftTriple_Loss_Deep_Metric_Learning_Without_Triplet_Sampling_ICCV_2019_paper.pdf)[[Tensorflow]](https://github.com/geonm/tf_SoftTriple_loss)
 
-- Curvilinear Distance Metric Learning (__CDML__) (NIPS 2019) [[Paper]](https://papers.nips.cc/paper/8675-curvilinear-distance-metric-learning.pdf)
+- Curvilinear Distance Metric Learning (__CDML__) (Neurips 2019) [[Paper]](https://papers.nips.cc/paper/8675-curvilinear-distance-metric-learning.pdf)
 
 ---
 <a name="dvm" />
@@ -91,6 +91,8 @@ Traditionally, they have defined metrics in a variety of ways, including pairwis
 - Deep Asymmetric Metric Learning via Rich Relationship Mining (__DAML__) (CVPR 2019) [[Paper]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Xu_Deep_Asymmetric_Metric_Learning_via_Rich_Relationship_Mining_CVPR_2019_paper.pdf)
 
 - Hardness-Aware Deep Metric Learning (__HDML__) (CVPR 2019) [[Paper]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Zheng_Hardness-Aware_Deep_Metric_Learning_CVPR_2019_paper.pdf)[[Tensorflow]](https://github.com/wzzheng/HDML)
+
+- Signal-to-Noise Ratio: A Robust Distance Metric for Deep Metric Learning (__DSML__) (CVPR 2019) [[Paper]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Yuan_Signal-To-Noise_Ratio_A_Robust_Distance_Metric_for_Deep_Metric_Learning_CVPR_2019_paper.pdf)
 
 - Deep Meta Metric Learning (__DMML__) (ICCV 2019) [[Paper]](http://openaccess.thecvf.com/content_ICCV_2019/papers/Chen_Deep_Meta_Metric_Learning_ICCV_2019_paper.pdf)[[Pytorch]](https://github.com/CHENGY12/DMML)
 
@@ -128,7 +130,7 @@ Traditionally, they have defined metrics in a variety of ways, including pairwis
 
 - Hybrid-Attention based Decoupled Metric Learning for Zero-Shot Image Retrieval (CVPR 2019) [[Paper]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Chen_Hybrid-Attention_Based_Decoupled_Metric_Learning_for_Zero-Shot_Image_Retrieval_CVPR_2019_paper.pdf) [[Caffe]](https://github.com/chenbinghui1/Hybrid-Attention-based-Decoupled-Metric-Learning)
 
-- Divide and Conquer the Embedding Space for Metric Learning (CVPR 2019) [[Paper]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Sanakoyeu_Divide_and_Conquer_the_Embedding_Space_for_Metric_Learning_CVPR_2019_paper.pdf) [[Code]](https://github.com/CompVis/metric-learning-divide-and-conquer) (__Not released yet__)
+- Divide and Conquer the Embedding Space for Metric Learning (CVPR 2019) [[Paper]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Sanakoyeu_Divide_and_Conquer_the_Embedding_Space_for_Metric_Learning_CVPR_2019_paper.pdf) [[Pytorch]](https://github.com/CompVis/metric-learning-divide-and-conquer)
 
 - Multi-Similarity Loss with General Pair Weighting for Deep Metric Learning (CVPR 2019) [[Paper]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Wang_Multi-Similarity_Loss_With_General_Pair_Weighting_for_Deep_Metric_Learning_CVPR_2019_paper.pdf)
 
@@ -138,7 +140,7 @@ Traditionally, they have defined metrics in a variety of ways, including pairwis
 
 - Deep Metric Learning with Tuplet Margin Loss (ICCV 2019) [[Paper]](http://openaccess.thecvf.com/content_ICCV_2019/papers/Yu_Deep_Metric_Learning_With_Tuplet_Margin_Loss_ICCV_2019_paper.pdf)
 
-- Metric Learning with HORDE: High-Order Regularizer for Deep Embeddings (ICCV 2019) [[Paper]](https://arxiv.org/pdf/1908.02735.pdf)[[Code]](https://github.com/pierre-jacob/ICCV2019-Horde)
+- Metric Learning with HORDE: High-Order Regularizer for Deep Embeddings (ICCV 2019) [[Paper]](https://arxiv.org/pdf/1908.02735.pdf)[[Keras]](https://github.com/pierre-jacob/ICCV2019-Horde)
 
 - MIC: Mining Interclass Characteristics for Improved Metric Learning (ICCV 2019) [[Paper]](http://openaccess.thecvf.com/content_ICCV_2019/papers/Roth_MIC_Mining_Interclass_Characteristics_for_Improved_Metric_Learning_ICCV_2019_paper.pdf)[[Pytorch]](https://github.com/Confusezius/metric-learning-mining-interclass-characteristics)
 
@@ -221,7 +223,7 @@ Traditionally, they have defined metrics in a variety of ways, including pairwis
 
 - Interaction-and-Aggregation Network for Person Re-identification (CVPR 2019) [[Paper]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Hou_Interaction-And-Aggregation_Network_for_Person_Re-Identification_CVPR_2019_paper.pdf)
 
-- Vehicle Re-identification with Viewpoint-aware Metric Learning (ICCV 2019) [[Paper]](http://openaccess.thecvf.com/content_ICCV_2019/papers/Chu_Vehicle_Re-Identification_With_Viewpoint-Aware_Metric_Learning_ICCV_2019_paper.pdf)[[Code]](https://github.com/RyanRuihanG/VANet_labels)
+- Vehicle Re-identification with Viewpoint-aware Metric Learning (ICCV 2019) [[Paper]](http://openaccess.thecvf.com/content_ICCV_2019/papers/Chu_Vehicle_Re-Identification_With_Viewpoint-Aware_Metric_Learning_ICCV_2019_paper.pdf)
 
 
 <a name="face_ver" />
@@ -288,56 +290,60 @@ Traditionally, they have defined metrics in a variety of ways, including pairwis
 
 #### Neurips
 
-- Distance Metric Learning for Large Margin Nearest Neighbor Classification (NIPS 2005) [[Paper]](https://papers.nips.cc/paper/2795-distance-metric-learning-for-large-margin-nearest-neighbor-classification)[[Journal]](http://jmlr.csail.mit.edu/papers/volume10/weinberger09a/weinberger09a.pdf)[[Code]](https://github.com/johny-c/pylmnn)
+- Distance Metric Learning for Large Margin Nearest Neighbor Classification (Neurips 2005) [[Paper]](https://papers.nips.cc/paper/2795-distance-metric-learning-for-large-margin-nearest-neighbor-classification)[[Journal]](http://jmlr.csail.mit.edu/papers/volume10/weinberger09a/weinberger09a.pdf)[[Python]](https://github.com/johny-c/pylmnn)
  - First approach of local metric learning
 
-- Metric Learning by Collapsing Classes (NIPS 2005) [[Paper]](https://papers.nips.cc/paper/2947-metric-learning-by-collapsing-classes)
+- Metric Learning by Collapsing Classes (Neurips 2005) [[Paper]](https://papers.nips.cc/paper/2947-metric-learning-by-collapsing-classes)
 
-- Online Metric Learning and Fast Similarity Search (NIPS 2008) [[Paper]](https://papers.nips.cc/paper/3446-online-metric-learning-and-fast-similarity-search)
+- Online Metric Learning and Fast Similarity Search (Neurips 2008) [[Paper]](https://papers.nips.cc/paper/3446-online-metric-learning-and-fast-similarity-search)
 
-- Sparse Metric Learning via Smooth Optimization (NIPS 2009) [[Paper]](https://papers.nips.cc/paper/3847-sparse-metric-learning-via-smooth-optimization)
+- Sparse Metric Learning via Smooth Optimization (Neurips 2009) [[Paper]](https://papers.nips.cc/paper/3847-sparse-metric-learning-via-smooth-optimization)
 
-- Metric Learning with Multiple Kernels (NIPS 2011) [[Paper]](https://papers.nips.cc/paper/4399-metric-learning-with-multiple-kernels)
+- Metric Learning with Multiple Kernels (Neurips 2011) [[Paper]](https://papers.nips.cc/paper/4399-metric-learning-with-multiple-kernels)
 
-- Hamming Distance Metric Learning (NIPS 2012) [[Paper]](https://papers.nips.cc/paper/4808-hamming-distance-metric-learning)[[Matlab]](https://github.com/norouzi/hdml)
+- Hamming Distance Metric Learning (Neurips 2012) [[Paper]](https://papers.nips.cc/paper/4808-hamming-distance-metric-learning)[[Matlab]](https://github.com/norouzi/hdml)
 
-- Parametric Local Metric Learning for Nearest Neighbor Classification (NIPS 2012) [[Paper]](http://papers.nips.cc/paper/4818-parametric-local-metric-learning-for-nearest-neighbor-classification)
+- Parametric Local Metric Learning for Nearest Neighbor Classification (Neurips 2012) [[Paper]](http://papers.nips.cc/paper/4818-parametric-local-metric-learning-for-nearest-neighbor-classification)
  * A representative approach of local metric learning
 
-- Non-linear Metric Learning (NIPS 2012) [[Paper]](https://papers.nips.cc/paper/4840-non-linear-metric-learning)
+- Non-linear Metric Learning (Neurips 2012) [[Paper]](https://papers.nips.cc/paper/4840-non-linear-metric-learning)
 
-- Latent Coincidence Analysis: A Hidden Variable Model for Distance Metric Learning (NIPS 2012) [[Paper]](https://papers.nips.cc/paper/4634-latent-coincidence-analysis-a-hidden-variable-model-for-distance-metric-learning)
+- Latent Coincidence Analysis: A Hidden Variable Model for Distance Metric Learning (Neurips 2012) [[Paper]](https://papers.nips.cc/paper/4634-latent-coincidence-analysis-a-hidden-variable-model-for-distance-metric-learning)
   - They deal with probabilistic model based on EM algorithm
 
-- Semi-Crowdsourced Clustering: Generalizing Crowd Labeling by Robust Distance Metric Learning (NIPS 2012) [[Paper]](https://papers.nips.cc/paper/4688-semi-crowdsourced-clustering-generalizing-crowd-labeling-by-robust-distance-metric-learning)
+- Semi-Crowdsourced Clustering: Generalizing Crowd Labeling by Robust Distance Metric Learning (Neurips 2012) [[Paper]](https://papers.nips.cc/paper/4688-semi-crowdsourced-clustering-generalizing-crowd-labeling-by-robust-distance-metric-learning)
 
-- Similarity Component Analysis (NIPS 2013) [[Paper]](https://papers.nips.cc/paper/5015-similarity-component-analysis.pdf)
+- Similarity Component Analysis (Neurips 2013) [[Paper]](https://papers.nips.cc/paper/5015-similarity-component-analysis.pdf)
 
-- Discriminative Metric Learning by Neighborhood Gerrymandering (NIPS 2014) [[Paper]](https://papers.nips.cc/paper/5385-discriminative-metric-learning-by-neighborhood-gerrymandering)
+- Discriminative Metric Learning by Neighborhood Gerrymandering (Neurips 2014) [[Paper]](https://papers.nips.cc/paper/5385-discriminative-metric-learning-by-neighborhood-gerrymandering)
 
-- Log-Hilbert-Schmidt metric between positive definite operators on Hilbert spaces (NIPS 2014) [[Paper]](https://papers.nips.cc/paper/5457-log-hilbert-schmidt-metric-between-positive-definite-operators-on-hilbert-spaces)
+- Log-Hilbert-Schmidt metric between positive definite operators on Hilbert spaces (Neurips 2014) [[Paper]](https://papers.nips.cc/paper/5457-log-hilbert-schmidt-metric-between-positive-definite-operators-on-hilbert-spaces)
 
-- Metric Learning for Temporal Sequence Alignment (NIPS 2014) [[paper]](http://papers.nips.cc/paper/5383-metric-learning-for-temporal-sequence-alignment)
+- Metric Learning for Temporal Sequence Alignment (Neurips 2014) [[paper]](http://papers.nips.cc/paper/5383-metric-learning-for-temporal-sequence-alignment)
 
-- Sample complexity of learning Mahalanobis distance metrics (NIPS 2015) [[Paper]](https://arxiv.org/abs/1505.02729)
+- Sample complexity of learning Mahalanobis distance metrics (Neurips 2015) [[Paper]](https://arxiv.org/abs/1505.02729)
 
-- Regressive Virtual Metric Learning (NIPS 2015) [[Paper]](https://papers.nips.cc/paper/5687-regressive-virtual-metric-learning)
+- Regressive Virtual Metric Learning (Neurips 2015) [[Paper]](https://papers.nips.cc/paper/5687-regressive-virtual-metric-learning)
 
-- Improved Error Bounds for Tree Representations of Metric Spaces (NIPS 2016) [[Paper]](https://papers.nips.cc/paper/6431-improved-error-bounds-for-tree-representations-of-metric-spaces)
+- Improved Error Bounds for Tree Representations of Metric Spaces (Neurips 2016) [[Paper]](https://papers.nips.cc/paper/6431-improved-error-bounds-for-tree-representations-of-metric-spaces)
 
-- What Makes Objects Similar: A Unified Multi-Metric Learning Approach (NIPS 2016) [[Paper]](https://papers.nips.cc/paper/6192-what-makes-objects-similar-a-unified-multi-metric-learning-approach)
+- What Makes Objects Similar: A Unified Multi-Metric Learning Approach (Neurips 2016) [[Paper]](https://papers.nips.cc/paper/6192-what-makes-objects-similar-a-unified-multi-metric-learning-approach)
 
-- Learning Low-Dimensional Metrics (NIPS 2017) [[Paper]](https://papers.nips.cc/paper/7002-learning-low-dimensional-metrics)
+- Learning Low-Dimensional Metrics (Neurips 2017) [[Paper]](https://papers.nips.cc/paper/7002-learning-low-dimensional-metrics)
 
-- Generative Local Metric Learning for Kernel Regression (NIPS 2017) [[Paper]](https://papers.nips.cc/paper/6839-generative-local-metric-learning-for-kernel-regression)
+- Generative Local Metric Learning for Kernel Regression (Neurips 2017) [[Paper]](https://papers.nips.cc/paper/6839-generative-local-metric-learning-for-kernel-regression)
 
-- Persistence Fisher Kernel: A Riemannian Manifold Kernel for Persistence Diagrams (NIPS 2018) [[Paper]](https://papers.nips.cc/paper/8205-persistence-fisher-kernel-a-riemannian-manifold-kernel-for-persistence-diagrams)[[Matlab]](https://github.com/lttam/PersistenceFisher)
+- Persistence Fisher Kernel: A Riemannian Manifold Kernel for Persistence Diagrams (Neurips 2018) [[Paper]](https://papers.nips.cc/paper/8205-persistence-fisher-kernel-a-riemannian-manifold-kernel-for-persistence-diagrams)[[Matlab]](https://github.com/lttam/PersistenceFisher)
 
-- Bilevel Distance Metric Learning for Robust Image Recognition (NIPS 2018) [[Paper]](https://papers.nips.cc/paper/7674-bilevel-distance-metric-learning-for-robust-image-recognition)
+- Bilevel Distance Metric Learning for Robust Image Recognition (Neurips 2018) [[Paper]](https://papers.nips.cc/paper/7674-bilevel-distance-metric-learning-for-robust-image-recognition)
 
-- Adapted Deep Embeddings: A Synthesis of Methods for k-Shot Inductive Transfer Learning (NIPS 2018) [[Paper]](https://papers.nips.cc/paper/7293-adapted-deep-embeddings-a-synthesis-of-methods-for-k-shot-inductive-transfer-learning)[[Tensorflow]](https://github.com/tylersco/adapted_deep_embeddings)
+- Adapted Deep Embeddings: A Synthesis of Methods for k-Shot Inductive Transfer Learning (Neurips 2018) [[Paper]](https://papers.nips.cc/paper/7293-adapted-deep-embeddings-a-synthesis-of-methods-for-k-shot-inductive-transfer-learning)[[Tensorflow]](https://github.com/tylersco/adapted_deep_embeddings)
 
-- A Theoretically Sound Upper Bound on the Triplet Loss for Improving the Efficiency of Deep Distance Metric Learning (CVPR 2019) [[Paper]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Do_A_Theoretically_Sound_Upper_Bound_on_the_Triplet_Loss_for_CVPR_2019_paper.pdf)
+- Fast Low-rank Metric Learning for Large-scale and High-dimensional Data (Neurips 2019) [[Paper]](http://papers.nips.cc/paper/8369-fast-low-rank-metric-learning-for-large-scale-and-high-dimensional-data.pdf)[[Matlab]](https://github.com/highan911/FLRML)
+
+- Metric Learning for Adversarial Robustness (Neurips 2019) [[Paper]](http://papers.nips.cc/paper/8339-metric-learning-for-adversarial-robustness.pdf)[[Tensorflow]](https://github.com/columbia/Metric_Learning_Adversarial_Robustness)
+
+- Region-specific Diffeomorphic Metric Mapping (Neurips 2019) [[Paper]](http://papers.nips.cc/paper/8394-region-specific-diffeomorphic-metric-mapping.pdf)[[Pytorch]](https://github.com/uncbiag/registration)
 
 <a name="iclr" />
 
@@ -369,7 +375,7 @@ Traditionally, they have defined metrics in a variety of ways, including pairwis
 - Gromov-Wasserstein Learning for Graph Matching and Node Embedding (ICML 2019) [[Paper]](https://arxiv.org/pdf/1901.06003.pdf)[[Pytorch]](https://github.com/HongtengXu/gwl)
   - Propose novel framework btw. relation graph and embedding space
 
-- Hyperbolic Disk Embeddings for Directed Acyclic Graphs (ICML 2019) [[Paper]](https://arxiv.org/pdf/1902.04335.pdf)[[Code]](https://github.com/lapras-inc/disk-embedding)
+- Hyperbolic Disk Embeddings for Directed Acyclic Graphs (ICML 2019) [[Paper]](https://arxiv.org/pdf/1902.04335.pdf)[[Luigi]](https://github.com/lapras-inc/disk-embedding)
   - Propose embedding framework into quasi-metric space
   
 
