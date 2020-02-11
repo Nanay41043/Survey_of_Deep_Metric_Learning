@@ -436,6 +436,6 @@ Traditionally, they have defined metrics in a variety of ways, including pairwis
 
 - [x] Add applications
 
-- [x] Add study materials
+- [ ] Add study materials
 
 - [ ] Add brief descriptions
