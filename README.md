@@ -376,7 +376,7 @@ Traditionally, they have defined metrics in a variety of ways, including pairwis
   - Propose novel framework btw. relation graph and embedding space
 
 - Hyperbolic Disk Embeddings for Directed Acyclic Graphs (ICML 2019) [[Paper]](https://arxiv.org/pdf/1902.04335.pdf)[[Luigi]](https://github.com/lapras-inc/disk-embedding)
-  - Propose embedding framework into quasi-metric space
+  - Propose embedding framework on quasi-metric space
   
 
 <a name="icip" />
