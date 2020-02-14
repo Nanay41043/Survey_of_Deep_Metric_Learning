@@ -94,6 +94,8 @@ Traditionally, they have defined metrics in a variety of ways, including pairwis
 
 - Signal-to-Noise Ratio: A Robust Distance Metric for Deep Metric Learning (__DSML__) (CVPR 2019) [[Paper]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Yuan_Signal-To-Noise_Ratio_A_Robust_Distance_Metric_for_Deep_Metric_Learning_CVPR_2019_paper.pdf)
 
+- Multi-similarity Loss with General Pair Weighting for Deep Metric Learning (__MSLoss__) (CVPR 2019) [[Paper]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Wang_Multi-Similarity_Loss_With_General_Pair_Weighting_for_Deep_Metric_Learning_CVPR_2019_paper.pdf)[[Pytorch]](https://github.com/MalongTech/research-ms-loss)
+
 - Deep Meta Metric Learning (__DMML__) (ICCV 2019) [[Paper]](http://openaccess.thecvf.com/content_ICCV_2019/papers/Chen_Deep_Meta_Metric_Learning_ICCV_2019_paper.pdf)[[Pytorch]](https://github.com/CHENGY12/DMML)
 
 
