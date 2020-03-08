@@ -27,6 +27,8 @@ Traditionally, they have defined metrics in a variety of ways, including pairwis
   - [Image registration](#regist)
   - [Few-shot approach](#few-shot)
   - [3D reconstruction](#3d_recon)
+  - [Action localization](#action_loc)
+  - [Adversarial attack](#adversarial)
 - [Related works](#related)
   - [Neurips](#neurips)
   - [ICLR](#iclr)
@@ -97,6 +99,8 @@ Traditionally, they have defined metrics in a variety of ways, including pairwis
 - Multi-similarity Loss with General Pair Weighting for Deep Metric Learning (__MSLoss__) (CVPR 2019) [[Paper]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Wang_Multi-Similarity_Loss_With_General_Pair_Weighting_for_Deep_Metric_Learning_CVPR_2019_paper.pdf)[[Pytorch]](https://github.com/MalongTech/research-ms-loss)
 
 - Deep Meta Metric Learning (__DMML__) (ICCV 2019) [[Paper]](http://openaccess.thecvf.com/content_ICCV_2019/papers/Chen_Deep_Meta_Metric_Learning_ICCV_2019_paper.pdf)[[Pytorch]](https://github.com/CHENGY12/DMML)
+
+- Symmetrical Synthesis for Deep Metric Learning (__Symm__) (AAAI 2020) [[Paper]](https://arxiv.org/abs/2001.11658) [[Tensorflow]](https://github.com/jungwoo-ha/symmetrical-synthesis)
 
 
 ---
@@ -283,6 +287,20 @@ Traditionally, they have defined metrics in a variety of ways, including pairwis
 
 - Learning Embedding of 3D models with Quadric Loss (BMVC 2019) [[Paper]](https://bmvc2019.org/wp-content/uploads/papers/0452-paper.pdf)[[Pytorch]](https://github.com/nitinagarwal/QuadricLoss)
 
+
+<a name="action_loc" />
+
+#### Action localization
+
+- Weakly Supervised Temporal Action Localization Using Deep Metric Learning (arXiv2020) [[Paper]](https://arxiv.org/pdf/2001.07793v1.pdf)[[Pytorch]](https://github.com/asrafulashiq/wsad)
+
+
+<a name="adversarial" />
+
+#### Adversarial attack
+
+- Metric Learning for Adversarial Robustness (Neurips 2019) [[Paper]](http://papers.nips.cc/paper/8339-metric-learning-for-adversarial-robustness.pdf)[[Tensorflow]](https://github.com/columbia/Metric_Learning_Adversarial_Robustness)
+
 ---
 <a name="related" />
 
@@ -346,6 +364,8 @@ Traditionally, they have defined metrics in a variety of ways, including pairwis
 - Metric Learning for Adversarial Robustness (Neurips 2019) [[Paper]](http://papers.nips.cc/paper/8339-metric-learning-for-adversarial-robustness.pdf)[[Tensorflow]](https://github.com/columbia/Metric_Learning_Adversarial_Robustness)
 
 - Region-specific Diffeomorphic Metric Mapping (Neurips 2019) [[Paper]](http://papers.nips.cc/paper/8394-region-specific-diffeomorphic-metric-mapping.pdf)[[Pytorch]](https://github.com/uncbiag/registration)
+
+- Fast Low-rank Metric Learning for Large-scale and High-dimensional Data (__FLRML__) (Neurips 2019) [[Paper]](http://papers.nips.cc/paper/8369-fast-low-rank-metric-learning-for-large-scale-and-high-dimensional-data.pdf)[[Matlab]](https://github.com/highan911/FLRML)
 
 <a name="iclr" />
 
