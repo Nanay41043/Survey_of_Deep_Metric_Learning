@@ -422,7 +422,7 @@ Traditionally, they have defined metrics in a variety of ways, including pairwis
 - A Metric Learning Reality Check (arXiv 2020) [[Paper]](https://arxiv.org/pdf/2003.08505v1.pdf)[[Pytorch]](https://github.com/bnu-wangxun/Deep_Metric)
 
 - Cross-Batch Memory for Embedding Learning (arXiv 2020) [[Paper]](https://arxiv.org/pdf/1912.06798.pdf)
-  - SOTA method in SOP and In-shop dataset.
+  - SOTA method in SOP and In-shop dataset
 
 
 ---
