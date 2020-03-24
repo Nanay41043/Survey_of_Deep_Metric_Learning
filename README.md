@@ -34,6 +34,8 @@ Traditionally, they have defined metrics in a variety of ways, including pairwis
   - [ICLR](#iclr)
   - [ICML](#icml)
   - [ICIP](#icip)
+  - [Journal](#journal)
+  - [ArXiv](#arxiv)
 - [Study materials](#study)
   - [Tutorial](#tutorial)
   - [Lecture](#lecture)
@@ -407,6 +409,20 @@ Traditionally, they have defined metrics in a variety of ways, including pairwis
 
 - Quadruplet Selection Methods for Deep Embedding Learning (ICIP 2019) [[Paper]](https://arxiv.org/pdf/1907.09245.pdf)
 
+
+<a name="journal" />
+
+#### Journal
+
+
+<a name="arxiv" />
+
+#### ArXiv
+
+- A Metric Learning Reality Check (arXiv 2020) [[Paper]](https://arxiv.org/pdf/2003.08505v1.pdf)[[Pytorch]](https://github.com/bnu-wangxun/Deep_Metric)
+
+- Cross-Batch Memory for Embedding Learning (arXiv 2020) [[Paper]](https://arxiv.org/pdf/1912.06798.pdf)
+  - SOTA method in SOP and In-shop dataset.
 
 
 ---
