@@ -63,6 +63,8 @@ Traditionally, they have defined metrics in a variety of ways, including pairwis
 
 - No Fuss Distance Metric Learning using Proxies (__Proxy NCA__) (ICCV 2017) [[Paper]](http://openaccess.thecvf.com/content_ICCV_2017/papers/Movshovitz-Attias_No_Fuss_Distance_ICCV_2017_paper.pdf)[[Pytorch1]](https://github.com/dichotomies/proxy-nca)[[Pytorch2]](https://github.com/bnulihaixia/Deep_metric)[[Chainer]](https://github.com/ronekko/deep_metric_learning)
 
+- Sampling Matters in Deep Embedding Learning (__Margin__) (ICCV 2017) [[Paper]](http://openaccess.thecvf.com/content_ICCV_2017/papers/Wu_Sampling_Matters_in_ICCV_2017_paper.pdf)[[Pytorch]](https://github.com/Confusezius/Deep-Metric-Learning-Baselines)[[TensorFlow]](https://github.com/HiKapok/tf.extra_losses)[[MXNet]](https://github.com/chaoyuaw/incubator-mxnet/tree/master/example/gluon/embedding_learning)
+
 - Deep Metric Learning with Angular Loss (__Angular__) (CVPR 2017) [[Paper]](https://arxiv.org/abs/1708.01682)[[Tensorflow]](https://github.com/geonm/tf_angular_loss)[[Chainer]](https://github.com/ronekko/deep_metric_learning)
 
 - Deep Metric Learning by Online Soft Mining and Class-Aware Attention (AAAI 2019) [[Paper]](https://arxiv.org/pdf/1811.01459.pdf)
