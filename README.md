@@ -25,7 +25,7 @@ Traditionally, they have defined metrics in a variety of ways, including pairwis
   - [Face recognition](#face_rec)
   - [Segmentation](#seg)
   - [Image registration](#regist)
-  - [Few-shot approach](#few-shot)
+  - [Few (zero)-shot approach](#few-shot)
   - [3D reconstruction](#3d_recon)
   - [Action localization](#action_loc)
   - [Adversarial attack](#adversarial)
@@ -278,11 +278,13 @@ Traditionally, they have defined metrics in a variety of ways, including pairwis
 
 <a name="few-shot" />
 
-#### Few-shot approach
+#### Few (zero)-shot approach
 
 - RepMet: Representative-based metric learning for classification and few-shot object detection (CVPR 2019) [[Paper]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Karlinsky_RepMet_Representative-Based_Metric_Learning_for_Classification_and_Few-Shot_Object_Detection_CVPR_2019_paper.pdf) [[Pytorch]](https://github.com/HaydenFaulkner/pytorch.repmet)
 
-- Revisiting Metric Learning for Few-Shot Image Classification (arXiv) [[Paper]](https://arxiv.org/pdf/1907.03123.pdf)
+- Revisiting Metric Learning for Few-Shot Image Classification (arXiv 2019) [[Paper]](https://arxiv.org/pdf/1907.03123.pdf)
+
+- Model-Agnostic Metric for Zero-Shot Learning (WACV 2020) [[Paper]](http://openaccess.thecvf.com/content_WACV_2020/papers/Shen_Model-Agnostic_Metric_for_Zero-Shot_Learning_WACV_2020_paper.pdf)
 
 
 <a name="3d_recon" />
@@ -296,7 +298,7 @@ Traditionally, they have defined metrics in a variety of ways, including pairwis
 
 #### Action localization
 
-- Weakly Supervised Temporal Action Localization Using Deep Metric Learning (arXiv2020) [[Paper]](https://arxiv.org/pdf/2001.07793v1.pdf)[[Pytorch]](https://github.com/asrafulashiq/wsad)
+- Weakly Supervised Temporal Action Localization Using Deep Metric Learning (WACV2020) [[Paper]](https://arxiv.org/pdf/2001.07793v1.pdf)[[Pytorch]](https://github.com/asrafulashiq/wsad)
 
 
 <a name="adversarial" />
