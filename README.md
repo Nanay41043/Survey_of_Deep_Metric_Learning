@@ -37,8 +37,8 @@ Traditionally, they have defined metrics in a variety of ways, including pairwis
   - [Journal](#journal)
   - [ArXiv](#arxiv)
 - [Study materials](#study)
-  - [Tutorial](#tutorial)
-  - [Lecture](#lecture)
+  - [Tutorials](#tutorial)
+  - [Lectures](#lecture)
   - [Repository](#repo)
   
   
