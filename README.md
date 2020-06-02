@@ -81,6 +81,10 @@ Traditionally, they have defined metrics in a variety of ways, including pairwis
 
 - Curvilinear Distance Metric Learning (__CDML__) (Neurips 2019) [[Paper]](https://papers.nips.cc/paper/8675-curvilinear-distance-metric-learning.pdf)
 
+- Proxy Anchor Loss for Deep Metric Learning (Proxy-Anchor) (CVPR 2020) [[Paper]](https://arxiv.org/pdf/2003.13911.pdf) [[Pytorch]](https://github.com/tjddus9597/Proxy-Anchor-CVPR2020)
+
+- Embedding Expansion: Augmentation in Embedding Space for Deep Metric Learning (__EE__) (CVPR 2020) [[Paper]](https://arxiv.org/pdf/2003.02546.pdf) [[Mxnet]](https://github.com/clovaai/embedding-expansion)
+
 ---
 <a name="dvm" />
 
@@ -105,6 +109,10 @@ Traditionally, they have defined metrics in a variety of ways, including pairwis
 - Deep Meta Metric Learning (__DMML__) (ICCV 2019) [[Paper]](http://openaccess.thecvf.com/content_ICCV_2019/papers/Chen_Deep_Meta_Metric_Learning_ICCV_2019_paper.pdf)[[Pytorch]](https://github.com/CHENGY12/DMML)
 
 - Symmetrical Synthesis for Deep Metric Learning (__Symm__) (AAAI 2020) [[Paper]](https://arxiv.org/abs/2001.11658) [[Tensorflow]](https://github.com/jungwoo-ha/symmetrical-synthesis)
+
+- Optimizing Rank-based Metrics with Blackbox Differentiation (__RaMBO__) (CVPR 2020) [[Paper]](https://arxiv.org/pdf/1912.03500.pdf)
+
+- Cross-Batch Memory for Embedding Learning (CVPR 2020) [[Paper]](https://arxiv.org/pdf/1912.06798.pdf) [[Pytorch]](https://github.com/bnu-wangxun/Deep_Metric)
 
 
 ---
@@ -461,6 +469,8 @@ Traditionally, they have defined metrics in a variety of ways, including pairwis
 <a name="repo" />
 
 #### Repository
+
+- Various metric loss implementation [[Pytorch]](https://github.com/KevinMusgrave/pytorch-metric-learning)
 
 - Person re-identification in Pytorch [[Site]](https://github.com/KaiyangZhou/deep-person-reid)
 
