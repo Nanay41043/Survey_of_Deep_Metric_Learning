@@ -29,6 +29,7 @@ Traditionally, they have defined metrics in a variety of ways, including pairwis
   - [3D reconstruction](#3d_recon)
   - [Action localization](#action_loc)
   - [Adversarial attack](#adversarial)
+  - [Text documentation](#text_documentation)
 - [Related works](#related)
   - [Neurips](#neurips)
   - [ICLR](#iclr)
@@ -315,6 +316,12 @@ Traditionally, they have defined metrics in a variety of ways, including pairwis
 
 - Metric Learning for Adversarial Robustness (Neurips 2019) [[Paper]](http://papers.nips.cc/paper/8339-metric-learning-for-adversarial-robustness.pdf)[[Tensorflow]](https://github.com/columbia/Metric_Learning_Adversarial_Robustness)
 
+<a name="text_documentation" />
+
+#### Text documentation
+
+- Fast(er) Reconstruction of Shredded Text Documents via Self-Supervised Deep Asymmetric Metric Learning (CVPR 2020) [[Paper]](https://arxiv.org/pdf/2003.10063.pdf)[[Code]](https://github.com/thiagopx/deeprec-cvpr20)
+
 ---
 <a name="related" />
 
@@ -425,6 +432,8 @@ Traditionally, they have defined metrics in a variety of ways, including pairwis
 <a name="journal" />
 
 #### Journal
+
+- Deep Metric Learning with Density Adaptivity (Multimedia, 2019) [[Paper]](https://arxiv.org/pdf/1909.03909.pdf)
 
 
 <a name="arxiv" />
