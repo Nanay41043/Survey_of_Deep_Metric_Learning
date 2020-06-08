@@ -35,10 +35,10 @@ Traditionally, they have defined metrics in a variety of ways, including pairwis
   - [ICLR](#iclr)
   - [ICML](#icml)
   - [ICIP](#icip)
-  - [Journal](#journal)
+  - [Journals\](#journal)
   - [ArXiv](#arxiv)
 - [Study materials](#study)
-  - [Tutorials](#tutorial)
+  - [Tutorials](#tutorials)
   - [Lectures](#lecture)
   - [Repository](#repo)
   
@@ -451,9 +451,9 @@ Traditionally, they have defined metrics in a variety of ways, including pairwis
 
 ### 7️⃣ Study materials
 
-<a name="tutorial" />
+<a name="tutorials" />
 
-#### Tutorial
+#### Tutorials
 
 - Metric learning tutorial (ICML 2010) [[Video]](https://www.youtube.com/watch?v=06BscIm7TwY)
 
