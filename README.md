@@ -19,6 +19,7 @@ Traditionally, they have defined metrics in a variety of ways, including pairwis
 - [Distribution or other variant methods](#dvm)
 - [Probabilistic methods](#pm)
 - [Boost-like methods](#bm)
+- [Unsupervised methods](#unsup)
 - [Applications](#app)
   - [Re-identification](#reid)
   - [Face verification](#face_ver)
@@ -166,9 +167,18 @@ Traditionally, they have defined metrics in a variety of ways, including pairwis
 
 
 ---
+<a name="unsup" />
+
+### 5️⃣ Unsupervised methods
+
+- Unsupervised Embedding Learning via Invariant and Spreading Instance Feature (CVPR 2019) [[Paper]](https://arxiv.org/abs/1904.03436)[[Pytorch]](https://github.com/mangye16/Unsupervised_Embedding_Learning)
+
+
+
+---
 <a name="app" />
 
-### 5️⃣ Applications
+### 6️⃣ Applications
 
 <a name="reid" />
 
@@ -325,7 +335,7 @@ Traditionally, they have defined metrics in a variety of ways, including pairwis
 ---
 <a name="related" />
 
-### 6️⃣ Related works
+### 7️⃣ Related works
 
 <a name="neurips" />
 
@@ -449,7 +459,7 @@ Traditionally, they have defined metrics in a variety of ways, including pairwis
 ---
 <a name="study" />
 
-### 7️⃣ Study materials
+### 8️⃣ Study materials
 
 <a name="tutorial" />
 
