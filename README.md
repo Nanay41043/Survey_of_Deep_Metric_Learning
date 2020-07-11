@@ -489,7 +489,9 @@ Traditionally, they have defined metrics in a variety of ways, including pairwis
 
 #### Repository
 
-- Various metric loss implementation [[Pytorch]](https://github.com/KevinMusgrave/pytorch-metric-learning)
+- Various metric loss implementation (written by Pytorch) [[Site]](https://github.com/KevinMusgrave/pytorch-metric-learning)
+
+- A metric learning reality check [[Site]](https://github.com/KevinMusgrave/powerful-benchmarker)
 
 - Person re-identification in Pytorch [[Site]](https://github.com/KaiyangZhou/deep-person-reid)
 
