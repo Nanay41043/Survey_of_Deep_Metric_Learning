@@ -116,6 +116,8 @@ Traditionally, they have defined metrics in a variety of ways, including pairwis
 
 - Cross-Batch Memory for Embedding Learning (CVPR 2020) [[Paper]](https://arxiv.org/pdf/1912.06798.pdf) [[Pytorch]](https://github.com/bnu-wangxun/Deep_Metric)
 
+- Distance Metric Learning with Joint Representation Diversification (__JRD__) (ICML 2020) [[Paper]](https://proceedings.icml.cc/static/paper_files/icml/2020/4066-Paper.pdf)[[Pytorch]](https://github.com/YangLin122/JRD)
+
 
 ---
 <a name="pm" />
