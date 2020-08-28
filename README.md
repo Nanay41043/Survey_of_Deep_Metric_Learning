@@ -88,6 +88,8 @@ Traditionally, they have defined metrics in a variety of ways, including pairwis
 
 - Embedding Expansion: Augmentation in Embedding Space for Deep Metric Learning (__EE__) (CVPR 2020) [[Paper]](https://arxiv.org/pdf/2003.02546.pdf) [[Mxnet]](https://github.com/clovaai/embedding-expansion)
 
+- ProxyNCA++: Revisiting and Revitalizing Proxy Neighborhood Component Analysis (__Proxy++__) (ECCV 2020) [[Paper]](https://arxiv.org/pdf/2004.01113v2.pdf)[[PyTorch]](https://github.com/euwern/proxynca_pp)
+
 ---
 <a name="dvm" />
 
@@ -172,6 +174,8 @@ Traditionally, they have defined metrics in a variety of ways, including pairwis
 - Metric Learning with HORDE: High-Order Regularizer for Deep Embeddings (ICCV 2019) [[Paper]](https://arxiv.org/pdf/1908.02735.pdf)[[Keras]](https://github.com/pierre-jacob/ICCV2019-Horde)
 
 - MIC: Mining Interclass Characteristics for Improved Metric Learning (ICCV 2019) [[Paper]](http://openaccess.thecvf.com/content_ICCV_2019/papers/Roth_MIC_Mining_Interclass_Characteristics_for_Improved_Metric_Learning_ICCV_2019_paper.pdf)[[Pytorch]](https://github.com/Confusezius/metric-learning-mining-interclass-characteristics)
+
+- DiVA: Diverse Visual Feature Aggregation for Deep Metric Learning (ECCV 2020) [[Paper]](https://arxiv.org/abs/2004.13458)
 
 
 
@@ -469,7 +473,8 @@ Traditionally, they have defined metrics in a variety of ways, including pairwis
 #### ArXiv
 
 - Cross-Batch Memory for Embedding Learning (arXiv 2020) [[Paper]](https://arxiv.org/pdf/1912.06798.pdf)
-  - SOTA method in SOP and In-shop dataset
+  
+- Calibrated neighborhood aware confidence measure for deep metric learning (arXiv 2020) [[Paper]](https://arxiv.org/pdf/2006.04935v1.pdf)
 
 
 ---
@@ -510,6 +515,7 @@ Traditionally, they have defined metrics in a variety of ways, including pairwis
 - A metric learning reality check [[Site]](https://github.com/KevinMusgrave/powerful-benchmarker)
 
 - Person re-identification in Pytorch [[Site]](https://github.com/KaiyangZhou/deep-person-reid)
+
 
 
 ---
