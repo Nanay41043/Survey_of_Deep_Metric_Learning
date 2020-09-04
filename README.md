@@ -126,7 +126,7 @@ Traditionally, they have defined metrics in a variety of ways, including pairwis
 
 - PADS: Policy-Adapted Sampling for Visual Similarity Learning (__PADS__) (CVPR 2020) [[Paper]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Roth_PADS_Policy-Adapted_Sampling_for_Visual_Similarity_Learning_CVPR_2020_paper.pdf)[[PyTorch]](https://github.com/Confusezius/CVPR2020_PADS)
 
-- A Metric Learning Reality Check (ECCV 2020) [[Paper]](https://arxiv.org/pdf/2003.08505v1.pdf)[[Pytorch]](https://github.com/bnu-wangxun/Deep_Metric)
+- A Metric Learning Reality Check (ECCV 2020) [[Paper]](https://arxiv.org/pdf/2003.08505.pdf)[[Pytorch]](https://github.com/KevinMusgrave/powerful-benchmarker)
 
 
 ---
