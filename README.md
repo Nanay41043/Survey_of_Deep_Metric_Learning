@@ -36,6 +36,7 @@ Traditionally, they have defined metrics in a variety of ways, including pairwis
   - [Neurips](#neurips)
   - [ICLR](#iclr)
   - [ICML](#icml)
+  - [ECCV](#eccv)
   - [ICIP](#icip)
   - [Journal](#journal)
   - [ArXiv](#arxiv)
@@ -177,6 +178,8 @@ Traditionally, they have defined metrics in a variety of ways, including pairwis
 
 - DiVA: Diverse Visual Feature Aggregation for Deep Metric Learning (ECCV 2020) [[Paper]](https://arxiv.org/abs/2004.13458)
 
+- The Group Loss for Deep Metric Learning (__GroupLoss__) (ECCV 2020) [[Paper]](https://arxiv.org/pdf/1912.00385.pdf)[[PyTorch]](https://github.com/dvl-tum/group_loss)
+
 
 
 ---
@@ -185,6 +188,8 @@ Traditionally, they have defined metrics in a variety of ways, including pairwis
 ### 5️⃣ Unsupervised methods
 
 - Unsupervised Embedding Learning via Invariant and Spreading Instance Feature (CVPR 2019) [[Paper]](https://arxiv.org/abs/1904.03436)[[Pytorch]](https://github.com/mangye16/Unsupervised_Embedding_Learning)
+
+- Unsupervised Deep Metric Learning with Transformed Attention Consistency and Contrastive Clustering Loss (ECCV 2020) [[Paper]](https://arxiv.org/pdf/2008.04378.pdf)
 
 
 
@@ -277,6 +282,8 @@ Traditionally, they have defined metrics in a variety of ways, including pairwis
 - Fantope Regularization in Metric Learning (CVPR 2014) [[Paper]](http://openaccess.thecvf.com/content_cvpr_2014/papers/Law_Fantope_Regularization_in_2014_CVPR_paper.pdf)
 
 - Deep Transfer Metric Learning (CVPR 2015) [[Paper]](http://openaccess.thecvf.com/content_cvpr_2015/papers/Hu_Deep_Transfer_Metric_2015_CVPR_paper.pdf)
+
+- BioMetricNet: deep unconstrained face verification through learning of metrics regularized onto Gaussian distributions (ECCV 2020) [[Paper]](https://arxiv.org/pdf/2008.06021.pdf)
 
 
 <a name="face_rec" />
@@ -453,6 +460,12 @@ Traditionally, they have defined metrics in a variety of ways, including pairwis
 - Hyperbolic Disk Embeddings for Directed Acyclic Graphs (ICML 2019) [[Paper]](https://arxiv.org/pdf/1902.04335.pdf)[[Luigi]](https://github.com/lapras-inc/disk-embedding)
   - Propose embedding framework on quasi-metric space
   
+  
+<a name="eccv" />
+
+#### ECCV
+
+- A unifying mutual information view of metric learning: cross-entropy vs. pairwise losses (ECCV 2020) [[Paper]](https://arxiv.org/pdf/2003.08983v2.pdf)[[PyTorch]](https://github.com/jeromerony/dml_cross_entropy)
 
 <a name="icip" />
 
