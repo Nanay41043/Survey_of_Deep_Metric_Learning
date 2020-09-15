@@ -128,6 +128,8 @@ Traditionally, they have defined metrics in a variety of ways, including pairwis
 
 - A Metric Learning Reality Check (ECCV 2020) [[Paper]](https://arxiv.org/pdf/2003.08505v1.pdf)[[Pytorch]](https://github.com/bnu-wangxun/Deep_Metric)
 
+- Virtual sample-based deep metric learning using discriminant analysis (PR 2020) [[Paper]](https://www.sciencedirect.com/science/article/pii/S0031320320304465)
+
 
 ---
 <a name="pm" />
