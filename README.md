@@ -38,7 +38,6 @@ Traditionally, they have defined metrics in a variety of ways, including pairwis
   - [ICML](#icml)
   - [ECCV](#eccv)
   - [ICIP](#icip)
-  - [Journal](#journal)
   - [ArXiv](#arxiv)
 - [Study materials](#study)
   - [Tutorial](#tutorial)
@@ -476,13 +475,6 @@ Traditionally, they have defined metrics in a variety of ways, including pairwis
 #### ICIP
 
 - Quadruplet Selection Methods for Deep Embedding Learning (ICIP 2019) [[Paper]](https://arxiv.org/pdf/1907.09245.pdf)
-
-
-<a name="journal" />
-
-#### Journal
-
-- Deep Metric Learning with Density Adaptivity (Multimedia, 2019) [[Paper]](https://arxiv.org/pdf/1909.03909.pdf)
 
 
 <a name="arxiv" />
