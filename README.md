@@ -104,6 +104,8 @@ Traditionally, they have defined metrics in a variety of ways, including pairwis
 
 - Learning Deep Disentangled Embeddings With the F-Statistic Loss (__F-stat__) (NIPS 2018) [[Paper]](https://papers.nips.cc/paper/7303-learning-deep-disentangled-embeddings-with-the-f-statistic-loss)[[Tensorflow]](https://github.com/kridgeway/f-statistic-loss-nips-2018)
 
+- Deep Metric Learning via Subtype Fuzzy Clustering (__SCDM__) (PR 2020) [[Paper]](https://www.sciencedirect.com/science/article/pii/S0031320319300548)
+
 - Deep Asymmetric Metric Learning via Rich Relationship Mining (__DAML__) (CVPR 2019) [[Paper]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Xu_Deep_Asymmetric_Metric_Learning_via_Rich_Relationship_Mining_CVPR_2019_paper.pdf)
 
 - Hardness-Aware Deep Metric Learning (__HDML__) (CVPR 2019) [[Paper]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Zheng_Hardness-Aware_Deep_Metric_Learning_CVPR_2019_paper.pdf)[[Tensorflow]](https://github.com/wzzheng/HDML)
@@ -126,7 +128,7 @@ Traditionally, they have defined metrics in a variety of ways, including pairwis
 
 - PADS: Policy-Adapted Sampling for Visual Similarity Learning (__PADS__) (CVPR 2020) [[Paper]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Roth_PADS_Policy-Adapted_Sampling_for_Visual_Similarity_Learning_CVPR_2020_paper.pdf)[[PyTorch]](https://github.com/Confusezius/CVPR2020_PADS)
 
-- A Metric Learning Reality Check (ECCV 2020) [[Paper]](https://arxiv.org/pdf/2003.08505.pdf)[[Pytorch]](https://github.com/KevinMusgrave/powerful-benchmarker)
+- A Metric Learning Reality Check (ECCV 2020) [[Paper]](https://arxiv.org/pdf/2003.08505v1.pdf)[[Pytorch]](https://github.com/bnu-wangxun/Deep_Metric)
 
 - Virtual sample-based deep metric learning using discriminant analysis (PR 2020) [[Paper]](https://www.sciencedirect.com/science/article/pii/S0031320320304465)
 
@@ -487,9 +489,11 @@ Traditionally, they have defined metrics in a variety of ways, including pairwis
 
 #### ArXiv
 
-- Cross-Batch Memory for Embedding Learning (arXiv 2020) [[Paper]](https://arxiv.org/pdf/1912.06798.pdf)
+- Cross-Batch Memory for Embedding Learning (2020) [[Paper]](https://arxiv.org/pdf/1912.06798.pdf)
   
 - Calibrated neighborhood aware confidence measure for deep metric learning (arXiv 2020) [[Paper]](https://arxiv.org/pdf/2006.04935v1.pdf)
+
+- Diversified Mutual Learning for Deep Metric Learning (2020) [[Link]](https://deepai.org/publication/diversified-mutual-learning-for-deep-metric-learning)
 
 
 ---
