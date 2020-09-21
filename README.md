@@ -179,7 +179,7 @@ Traditionally, they have defined metrics in a variety of ways, including pairwis
 
 - MIC: Mining Interclass Characteristics for Improved Metric Learning (ICCV 2019) [[Paper]](http://openaccess.thecvf.com/content_ICCV_2019/papers/Roth_MIC_Mining_Interclass_Characteristics_for_Improved_Metric_Learning_ICCV_2019_paper.pdf)[[Pytorch]](https://github.com/Confusezius/metric-learning-mining-interclass-characteristics)
 
-- DiVA: Diverse Visual Feature Aggregation for Deep Metric Learning (ECCV 2020) [[Paper]](https://arxiv.org/abs/2004.13458)
+- DiVA: Diverse Visual Feature Aggregation for Deep Metric Learning (__DIVA__) (ECCV 2020) [[Paper]](https://arxiv.org/abs/2004.13458) [[PyTorch]](https://github.com/Confusezius/ECCV2020_DiVA_MultiFeature_DML)
 
 - The Group Loss for Deep Metric Learning (__GroupLoss__) (ECCV 2020) [[Paper]](https://arxiv.org/pdf/1912.00385.pdf)[[PyTorch]](https://github.com/dvl-tum/group_loss)
 
