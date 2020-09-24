@@ -1,4 +1,7 @@
 # 👏 Survey of Deep Metric Learning
+[![github_issues](https://img.shields.io/github/issues/kdhht2334/Survey_of_Deep_Metric_Learning)]()&nbsp;
+[![github_forks](https://img.shields.io/github/forks/kdhht2334/Survey_of_Deep_Metric_Learning)]()&nbsp;
+[![github_stars](https://img.shields.io/github/stars/kdhht2334/Survey_of_Deep_Metric_Learning)]()&nbsp;
 
 Traditionally, they have defined metrics in a variety of ways, including pairwise distance, similarity, and probability distribution.
 
