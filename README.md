@@ -89,7 +89,7 @@ Traditionally, they have defined metrics in a variety of ways, including pairwis
 
 - Curvilinear Distance Metric Learning (__CDML__) (Neurips 2019) [[Paper]](https://papers.nips.cc/paper/8675-curvilinear-distance-metric-learning.pdf)
 
-- Proxy Anchor Loss for Deep Metric Learning (Proxy-Anchor) (CVPR 2020) [[Paper]](https://arxiv.org/pdf/2003.13911.pdf) [[Pytorch]](https://github.com/tjddus9597/Proxy-Anchor-CVPR2020)
+- Proxy Anchor Loss for Deep Metric Learning (__Proxy-Anchor__) (CVPR 2020) [[Paper]](https://arxiv.org/pdf/2003.13911.pdf) [[Pytorch]](https://github.com/tjddus9597/Proxy-Anchor-CVPR2020)
 
 - Embedding Expansion: Augmentation in Embedding Space for Deep Metric Learning (__EE__) (CVPR 2020) [[Paper]](https://arxiv.org/pdf/2003.02546.pdf) [[Mxnet]](https://github.com/clovaai/embedding-expansion)
 
