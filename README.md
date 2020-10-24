@@ -172,8 +172,6 @@ Traditionally, they have defined metrics in a variety of ways, including pairwis
 
 - Divide and Conquer the Embedding Space for Metric Learning (CVPR 2019) [[Paper]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Sanakoyeu_Divide_and_Conquer_the_Embedding_Space_for_Metric_Learning_CVPR_2019_paper.pdf) [[Pytorch]](https://github.com/CompVis/metric-learning-divide-and-conquer)
 
-- Multi-Similarity Loss with General Pair Weighting for Deep Metric Learning (CVPR 2019) [[Paper]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Wang_Multi-Similarity_Loss_With_General_Pair_Weighting_for_Deep_Metric_Learning_CVPR_2019_paper.pdf)
-
 - Stochastic Class-based Hard Example Mining for Deep Metric Learning (CVPR 2019) [[Paper]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Suh_Stochastic_Class-Based_Hard_Example_Mining_for_Deep_Metric_Learning_CVPR_2019_paper.pdf)
 
 - Distilled Person Re-identification: Towards a More Scalable System (CVPR 2019) [[Paper]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Wu_Distilled_Person_Re-Identification_Towards_a_More_Scalable_System_CVPR_2019_paper.pdf)
