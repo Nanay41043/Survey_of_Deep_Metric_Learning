@@ -411,6 +411,8 @@ Traditionally, they have defined metrics in a variety of ways, including pairwis
 
 - Regressive Virtual Metric Learning (Neurips 2015) [[Paper]](https://papers.nips.cc/paper/5687-regressive-virtual-metric-learning)
 
+- What Makes Objects Similar: A Unified Multi-Metric Learning Approach (Neurips 2016) [[Paper]](https://papers.nips.cc/paper/6192-what-makes-objects-similar-a-unified-multi-metric-learning-approach.pdf)
+
 - Improved Error Bounds for Tree Representations of Metric Spaces (Neurips 2016) [[Paper]](https://papers.nips.cc/paper/6431-improved-error-bounds-for-tree-representations-of-metric-spaces)
 
 - What Makes Objects Similar: A Unified Multi-Metric Learning Approach (Neurips 2016) [[Paper]](https://papers.nips.cc/paper/6192-what-makes-objects-similar-a-unified-multi-metric-learning-approach)
