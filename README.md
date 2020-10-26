@@ -43,7 +43,7 @@ Traditionally, they have defined metrics in a variety of ways, including pairwis
   - [ICML](#icml)
   - [ECCV](#eccv)
   - [ICIP](#icip)
-  - [ArXiv](#arxiv)
+  - [Others](#others)
 - [Study materials](#study)
   - [Tutorial](#tutorial)
   - [Lectures](#lecture)
@@ -488,15 +488,17 @@ Traditionally, they have defined metrics in a variety of ways, including pairwis
 - Quadruplet Selection Methods for Deep Embedding Learning (ICIP 2019) [[Paper]](https://arxiv.org/pdf/1907.09245.pdf)
 
 
-<a name="arxiv" />
+<a name="others" />
 
-#### ArXiv
+#### Others
 
-- Cross-Batch Memory for Embedding Learning (2020) [[Paper]](https://arxiv.org/pdf/1912.06798.pdf)
+- Cross-Batch Memory for Embedding Learning (ArXiv 2020) [[Paper]](https://arxiv.org/pdf/1912.06798.pdf)
   
-- Calibrated neighborhood aware confidence measure for deep metric learning (arXiv 2020) [[Paper]](https://arxiv.org/pdf/2006.04935v1.pdf)
+- Calibrated neighborhood aware confidence measure for deep metric learning (ArXiv 2020) [[Paper]](https://arxiv.org/pdf/2006.04935v1.pdf)
 
-- Diversified Mutual Learning for Deep Metric Learning (2020) [[Link]](https://deepai.org/publication/diversified-mutual-learning-for-deep-metric-learning)
+- Diversified Mutual Learning for Deep Metric Learning (ArXiv 2020) [[Link]](https://deepai.org/publication/diversified-mutual-learning-for-deep-metric-learning)
+
+- Deep Metric Learning Based on Rank-sensitive Optimization of Top-k Precision (CIKM 2020) [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3340531.3412142)
 
 
 ---
