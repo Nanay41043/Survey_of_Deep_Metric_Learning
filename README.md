@@ -136,6 +136,8 @@ Traditionally, they have defined metrics in a variety of ways, including pairwis
 
 - Virtual sample-based deep metric learning using discriminant analysis (PR 2020) [[Paper]](https://www.sciencedirect.com/science/article/pii/S0031320320304465)
 
+- Fewer is More: A Deep Graph Metric Learning Perspective Using Fewer Proxies (NeurIPS 2020) [[Paper]](https://arxiv.org/pdf/2010.13636.pdf)[[PyTorch]](https://github.com/YuehuaZhu/ProxyGML)
+
 
 ---
 <a name="pm" />
@@ -440,6 +442,8 @@ Traditionally, they have defined metrics in a variety of ways, including pairwis
 - Region-specific Diffeomorphic Metric Mapping (Neurips 2019) [[Paper]](http://papers.nips.cc/paper/8394-region-specific-diffeomorphic-metric-mapping.pdf)[[Pytorch]](https://github.com/uncbiag/registration)
 
 - Fast Low-rank Metric Learning for Large-scale and High-dimensional Data (__FLRML__) (Neurips 2019) [[Paper]](http://papers.nips.cc/paper/8369-fast-low-rank-metric-learning-for-large-scale-and-high-dimensional-data.pdf)[[Matlab]](https://github.com/highan911/FLRML)
+
+- Contrastive Learning with Adversarial Examples (NeurIPS 2020) [[Paper]](https://arxiv.org/pdf/2010.12050.pdf)
 
 <a name="iclr" />
 
