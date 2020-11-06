@@ -48,6 +48,7 @@ Traditionally, they have defined metrics in a variety of ways, including pairwis
   - [Tutorial](#tutorial)
   - [Lectures](#lecture)
   - [Repository](#repo)
+- [Challenges](#challenge)
   
   
 ---
@@ -544,6 +545,12 @@ Traditionally, they have defined metrics in a variety of ways, including pairwis
 
 - Person re-identification in Pytorch [[Site]](https://github.com/KaiyangZhou/deep-person-reid)
 
+
+<a name="challenge" />
+
+#### Challenges
+
+- TO BE UPDATED
 
 
 ---
