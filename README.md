@@ -96,6 +96,10 @@ Traditionally, they have defined metrics in a variety of ways, including pairwis
 
 - ProxyNCA++: Revisiting and Revitalizing Proxy Neighborhood Component Analysis (__Proxy++__) (ECCV 2020) [[Paper]](https://arxiv.org/pdf/2004.01113v2.pdf)[[PyTorch]](https://github.com/euwern/proxynca_pp)
 
+- Fewer is More: A Deep Graph Metric Learning Perspective Using Fewer Proxies (__ProxyGML__) (NeurIPS 2020) [[Paper]](https://arxiv.org/pdf/2010.13636.pdf)[[PyTorch]](https://github.com/YuehuaZhu/ProxyGML)
+
+- Deep Metric Learning with Spherical Embedding (NeurIPS 2020) [[Paper]](https://proceedings.neurips.cc/paper/2020/file/d9812f756d0df06c7381945d2e2c7d4b-Paper.pdf)
+
 ---
 <a name="dvm" />
 
@@ -137,7 +141,7 @@ Traditionally, they have defined metrics in a variety of ways, including pairwis
 
 - Virtual sample-based deep metric learning using discriminant analysis (PR 2020) [[Paper]](https://www.sciencedirect.com/science/article/pii/S0031320320304465)
 
-- Fewer is More: A Deep Graph Metric Learning Perspective Using Fewer Proxies (NeurIPS 2020) [[Paper]](https://arxiv.org/pdf/2010.13636.pdf)[[PyTorch]](https://github.com/YuehuaZhu/ProxyGML)
+- Provably Robust Metric Learning (NeurIPS 2020) [[Paper]](https://proceedings.neurips.cc/paper/2020/file/e038453073d221a4f32d0bab94ca7cee-Paper.pdf)
 
 
 ---
@@ -286,6 +290,8 @@ Traditionally, they have defined metrics in a variety of ways, including pairwis
 - Style Normalization and Restitution for Generalizable Person Re-identification (CVPR 2020) [[Paper]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Jin_Style_Normalization_and_Restitution_for_Generalizable_Person_Re-Identification_CVPR_2020_paper.pdf)
 
 - Hi-CMD: Hierarchical Cross-Modality Disentanglement for Visible-Infrared Person Re-Identification (CVPR 2020) [[Paper]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Choi_Hi-CMD_Hierarchical_Cross-Modality_Disentanglement_for_Visible-Infrared_Person_Re-Identification_CVPR_2020_paper.pdf)[[PyTorch]](https://github.com/bismex/HiCMD)
+
+- The Dilemma of TriHard Loss and an Element-Weighted TriHard Loss for Person Re-Identification (NeurIPS 2020) [[Paper]](https://proceedings.neurips.cc/paper/2020/file/c96c08f8bb7960e11a1239352a479053-Paper.pdf)[[PyTorch]](https://github.com/LvWilliam/EWTH_Loss)
 
 
 <a name="face_ver" />
@@ -445,6 +451,11 @@ Traditionally, they have defined metrics in a variety of ways, including pairwis
 - Fast Low-rank Metric Learning for Large-scale and High-dimensional Data (__FLRML__) (Neurips 2019) [[Paper]](http://papers.nips.cc/paper/8369-fast-low-rank-metric-learning-for-large-scale-and-high-dimensional-data.pdf)[[Matlab]](https://github.com/highan911/FLRML)
 
 - Contrastive Learning with Adversarial Examples (NeurIPS 2020) [[Paper]](https://arxiv.org/pdf/2010.12050.pdf)
+
+- Simultaneous Preference and Metric Learning from Paired Comparisons (NeurIPS 2020) [[Paper]](https://proceedings.neurips.cc/paper/2020/file/0561bc7ecba98e39ca7994f93311ba23-Paper.pdf)[[MatLab]](https://github.com/austinxu87/IdealPointMetric)
+
+- Multi-task Batch Reinforcement Learning with Metric Learning (NeurIPS 2020) [[Paper]](https://proceedings.neurips.cc/paper/2020/file/4496bf24afe7fab6f046bf4923da8de6-Paper.pdf)
+
 
 <a name="iclr" />
 
