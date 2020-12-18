@@ -579,4 +579,4 @@ Traditionally, they have defined metrics in a variety of ways, including pairwis
 
 - [ ] Add study materials
 
-- [ ] Add brief descriptions
+- [x] Add brief descriptions
