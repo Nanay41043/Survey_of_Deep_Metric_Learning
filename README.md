@@ -532,6 +532,8 @@ Traditionally, they have defined metrics in a variety of ways, including pairwis
 
 - Visual Search (Image Retrieval) and Metric Learning (CVPR 2018) [[Video]](https://www.youtube.com/watch?v=iW_9fvw6YtI)
 
+- Tutorial, Image Retrieval in the Wild (CVPR 2020) [[Video]](https://www.youtube.com/watch?v=6nLnUAw23u4&t=211s)
+
 
 <a name="lecture" />
 
