@@ -41,8 +41,6 @@ Traditionally, they have defined metrics in a variety of ways, including pairwis
   - [Neurips](#neurips)
   - [ICLR](#iclr)
   - [ICML](#icml)
-  - [ECCV](#eccv)
-  - [ICIP](#icip)
   - [Others](#others)
 - [Study materials](#study)
   - [Tutorial](#tutorial)
