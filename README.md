@@ -489,24 +489,16 @@ Traditionally, they have defined metrics in a variety of ways, including pairwis
 
 - Hyperbolic Disk Embeddings for Directed Acyclic Graphs (ICML 2019) [[Paper]](https://arxiv.org/pdf/1902.04335.pdf)[[Luigi]](https://github.com/lapras-inc/disk-embedding)
   - Propose embedding framework on quasi-metric space
-  
-  
-<a name="eccv" />
 
-#### ECCV
-
-- A unifying mutual information view of metric learning: cross-entropy vs. pairwise losses (ECCV 2020) [[Paper]](https://arxiv.org/pdf/2003.08983v2.pdf)[[PyTorch]](https://github.com/jeromerony/dml_cross_entropy)
-
-<a name="icip" />
-
-#### ICIP
-
-- Quadruplet Selection Methods for Deep Embedding Learning (ICIP 2019) [[Paper]](https://arxiv.org/pdf/1907.09245.pdf)
 
 
 <a name="others" />
 
 #### Others
+
+- A unifying mutual information view of metric learning: cross-entropy vs. pairwise losses (ECCV 2020) [[Paper]](https://arxiv.org/pdf/2003.08983v2.pdf)[[PyTorch]](https://github.com/jeromerony/dml_cross_entropy)
+
+- Quadruplet Selection Methods for Deep Embedding Learning (ICIP 2019) [[Paper]](https://arxiv.org/pdf/1907.09245.pdf)
 
 - Cross-Batch Memory for Embedding Learning (ArXiv 2020) [[Paper]](https://arxiv.org/pdf/1912.06798.pdf)
   
@@ -515,6 +507,12 @@ Traditionally, they have defined metrics in a variety of ways, including pairwis
 - Diversified Mutual Learning for Deep Metric Learning (ArXiv 2020) [[Link]](https://deepai.org/publication/diversified-mutual-learning-for-deep-metric-learning)
 
 - Deep Metric Learning Based on Rank-sensitive Optimization of Top-k Precision (CIKM 2020) [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3340531.3412142)
+
+- Training Deep Retrieval Models with Noisy Datasets: Bag Exponential Loss (PR2021) [[Paper]](https://www.sciencedirect.com/science/article/pii/S0031320320306142?dgcid=rss_sd_all)
+
+- Group Softmax Loss with Discriminative Feature Grouping (WACV2021) [[Paper]](https://openaccess.thecvf.com/content/WACV2021/papers/Kobayashi_Group_Softmax_Loss_With_Discriminative_Feature_Grouping_WACV_2021_paper.pdf)
+
+- A Multi-class Hinge Loss for Conditional GANs (WACV2021) [[Paper]](https://openaccess.thecvf.com/content/WACV2021/papers/Kavalerov_A_Multi-Class_Hinge_Loss_for_Conditional_GANs_WACV_2021_paper.pdf)
 
 
 ---
@@ -532,7 +530,7 @@ Traditionally, they have defined metrics in a variety of ways, including pairwis
 
 - Visual Search (Image Retrieval) and Metric Learning (CVPR 2018) [[Video]](https://www.youtube.com/watch?v=iW_9fvw6YtI)
 
-- Tutorial, Image Retrieval in the Wild (CVPR 2020) [[Video]](https://www.youtube.com/watch?v=6nLnUAw23u4&t=211s)
+- Image Retrieval in the Wild (CVPR 2020) [[Video]](https://www.youtube.com/watch?v=6nLnUAw23u4&t=211s)
 
 
 <a name="lecture" />
