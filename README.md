@@ -291,6 +291,8 @@ Traditionally, they have defined metrics in a variety of ways, including pairwis
 
 - Hi-CMD: Hierarchical Cross-Modality Disentanglement for Visible-Infrared Person Re-Identification (CVPR 2020) [[Paper]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Choi_Hi-CMD_Hierarchical_Cross-Modality_Disentanglement_for_Visible-Infrared_Person_Re-Identification_CVPR_2020_paper.pdf)[[PyTorch]](https://github.com/bismex/HiCMD)
 
+- AD-Cluster: Augmented Discriminative Clustering for Domain Adaptive Person Re-identification (CVPR 2020) [[Paper]](https://arxiv.org/pdf/2004.08787.pdf)
+
 - The Dilemma of TriHard Loss and an Element-Weighted TriHard Loss for Person Re-Identification (NeurIPS 2020) [[Paper]](https://proceedings.neurips.cc/paper/2020/file/c96c08f8bb7960e11a1239352a479053-Paper.pdf)[[PyTorch]](https://github.com/LvWilliam/EWTH_Loss)
 
 
