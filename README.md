@@ -141,6 +141,8 @@ Traditionally, they have defined metrics in a variety of ways, including pairwis
 
 - Circle Loss: A Unified Perspective of Pair Similarity Optimization (__CircleLoss__) (CVPR 2020) [[Paper]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Sun_Circle_Loss_A_Unified_Perspective_of_Pair_Similarity_Optimization_CVPR_2020_paper.pdf)[[PyTorch]](https://github.com/TinyZeaMays/CircleLoss)
 
+- RankMI: A Mutual Information Maximizing Ranking Loss (__RankMI__) (CVPR 2020) [[Paper]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Kemertas_RankMI_A_Mutual_Information_Maximizing_Ranking_Loss_CVPR_2020_paper.pdf/)
+
 - Virtual sample-based deep metric learning using discriminant analysis (PR 2020) [[Paper]](https://www.sciencedirect.com/science/article/pii/S0031320320304465)
 
 - Provably Robust Metric Learning (NeurIPS 2020) [[Paper]](https://proceedings.neurips.cc/paper/2020/file/e038453073d221a4f32d0bab94ca7cee-Paper.pdf)
