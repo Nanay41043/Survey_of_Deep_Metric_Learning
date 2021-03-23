@@ -485,6 +485,8 @@ Traditionally, they have defined metrics in a variety of ways, including pairwis
 
 - Conditional Network Embeddings (ICLR 2019) [[Paper]](https://openreview.net/pdf?id=ryepUj0qtX)[[Matlab]](https://bitbucket.org/ghentdatascience/cne)
   - Add additional information with respect to given structural properties
+  
+- Contrastive Learning with Hard Negative Samples (ICLR 2021) [[Paper]](https://arxiv.org/pdf/2010.04592.pdf)[[PyTorch]](https://github.com/joshr17/HCL)
 
 <a name="icml" />
 
