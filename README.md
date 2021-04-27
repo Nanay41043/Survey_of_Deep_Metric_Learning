@@ -100,6 +100,8 @@ Traditionally, they have defined metrics in a variety of ways, including pairwis
 
 - Deep Metric Learning with Spherical Embedding (NeurIPS 2020) [[Paper]](https://proceedings.neurips.cc/paper/2020/file/d9812f756d0df06c7381945d2e2c7d4b-Paper.pdf)
 
+- SLADE: A Self-Training Framework For Distance Metric Learning (CVPR 2021) [[Paper]](https://arxiv.org/pdf/2011.10269.pdf)
+
 ---
 <a name="dvm" />
 
@@ -146,6 +148,14 @@ Traditionally, they have defined metrics in a variety of ways, including pairwis
 - Virtual sample-based deep metric learning using discriminant analysis (PR 2020) [[Paper]](https://www.sciencedirect.com/science/article/pii/S0031320320304465)
 
 - Provably Robust Metric Learning (NeurIPS 2020) [[Paper]](https://proceedings.neurips.cc/paper/2020/file/e038453073d221a4f32d0bab94ca7cee-Paper.pdf)
+
+- Deep Metric Learning with Graph Consistency (AAAI 2021) [[Paper]](http://www.bhchen.cn/paper/1310.ChenB.pdf)
+
+- Multi-level Distance Regularization for Deep Metric Learning (AAAI 2021) [[Paper]](https://arxiv.org/pdf/2102.04223.pdf)
+
+- Proxy Synthesis: Learning with Synthetic Classes for Deep Metric Learning (AAAI 2021) [[Paper]](https://arxiv.org/pdf/2103.15454.pdf)[[PyTorch]](https://github.com/navervision/proxy-synthesis)
+
+- Noise-resistant Deep Metric Learning with Ranking-based Instance Selection (__PRISM__) (CVPR 2021) [[Paper]](https://arxiv.org/pdf/2103.16047.pdf)[[PyTorch]](https://github.com/alibaba-edu/Ranking-based-Instance-Selection)
 
 
 ---
@@ -521,6 +531,8 @@ Traditionally, they have defined metrics in a variety of ways, including pairwis
 - Group Softmax Loss with Discriminative Feature Grouping (WACV2021) [[Paper]](https://openaccess.thecvf.com/content/WACV2021/papers/Kobayashi_Group_Softmax_Loss_With_Discriminative_Feature_Grouping_WACV_2021_paper.pdf)
 
 - A Multi-class Hinge Loss for Conditional GANs (WACV2021) [[Paper]](https://openaccess.thecvf.com/content/WACV2021/papers/Kavalerov_A_Multi-Class_Hinge_Loss_for_Conditional_GANs_WACV_2021_paper.pdf)
+
+- Embedding Transfer with Label Relaxation for Improved Metric Learning (CVPR 2021) [[Paper]](https://arxiv.org/pdf/2103.14908.pdf)
 
 
 ---
