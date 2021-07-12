@@ -20,8 +20,8 @@ Traditionally, they have defined metrics in a variety of ways, including pairwis
 ---
 ## Contents
 
-- [Pairwise cost methods](#pcm)
-- [Distribution or other variant methods](#dvm)
+- [Pairwise cost methods (stand alone)](#pcm)
+- [Distribution or Ad-hoc methods](#dvm)
 - [Probabilistic methods](#pm)
 - [Boost-like methods](#bm)
 - [Unsupervised methods](#unsup)
@@ -52,7 +52,7 @@ Traditionally, they have defined metrics in a variety of ways, including pairwis
 ---
 <a name="pcm" />
 
-### 1️⃣ Pairwise cost methods
+### 1️⃣ Pairwise cost methods (stand alone)
 
 - Dimensionality Reduction by Learning an Invariant Mapping (__Contrastive__) (CVPR 2006) [[Paper]](http://yann.lecun.com/exdb/publis/pdf/hadsell-chopra-lecun-06.pdf)[[Caffe]](https://github.com/wujiyang/Contrastive-Loss)[[Tensorflow]](https://github.com/ardiya/siamesenetwork-tensorflow)[[Keras]](https://github.com/keras-team/keras/blob/master/examples/mnist_siamese.py)[[Pytorch1]](https://github.com/delijati/pytorch-siamese/blob/master/contrastive.py)[[Pytorch2]](https://github.com/bnulihaixia/Deep_metric)
 
@@ -92,7 +92,7 @@ Traditionally, they have defined metrics in a variety of ways, including pairwis
 
 - Proxy Anchor Loss for Deep Metric Learning (__Proxy-Anchor__) (CVPR 2020) [[Paper]](https://arxiv.org/pdf/2003.13911.pdf) [[Pytorch]](https://github.com/tjddus9597/Proxy-Anchor-CVPR2020)
 
-- Embedding Expansion: Augmentation in Embedding Space for Deep Metric Learning (__EE__) (CVPR 2020) [[Paper]](https://arxiv.org/pdf/2003.02546.pdf) [[Mxnet]](https://github.com/clovaai/embedding-expansion)
+- Optimizing Rank-based Metrics with Blackbox Differentiation (__RaMBO__) (CVPR 2020) [[Paper]](https://arxiv.org/pdf/1912.03500.pdf)
 
 - ProxyNCA++: Revisiting and Revitalizing Proxy Neighborhood Component Analysis (__Proxy++__) (ECCV 2020) [[Paper]](https://arxiv.org/pdf/2004.01113v2.pdf)[[PyTorch]](https://github.com/euwern/proxynca_pp)
 
@@ -102,10 +102,12 @@ Traditionally, they have defined metrics in a variety of ways, including pairwis
 
 - SLADE: A Self-Training Framework For Distance Metric Learning (CVPR 2021) [[Paper]](https://arxiv.org/pdf/2011.10269.pdf)
 
+- Learning Intra-Batch Connections for Deep Metric Learning (ICML 2021) [[Paper]](https://arxiv.org/pdf/2102.07753.pdf)[[Pytorch]](https://github.com/dvl-tum/intra_batch)
+
 ---
 <a name="dvm" />
 
-### 2️⃣ Distribution or other variant methods
+### 2️⃣ Distribution or Ad-hoc methods
 
 - Image Set Classification Using Holistic Multiple Order Statistics Features and Localized Multi-Kernel Metric Learning (ICCV 2013) [[Paper]](http://openaccess.thecvf.com/content_iccv_2013/papers/Lu_Image_Set_Classification_2013_ICCV_paper.pdf)
 
@@ -129,7 +131,7 @@ Traditionally, they have defined metrics in a variety of ways, including pairwis
 
 - Symmetrical Synthesis for Deep Metric Learning (__Symm__) (AAAI 2020) [[Paper]](https://arxiv.org/abs/2001.11658) [[Tensorflow]](https://github.com/jungwoo-ha/symmetrical-synthesis)
 
-- Optimizing Rank-based Metrics with Blackbox Differentiation (__RaMBO__) (CVPR 2020) [[Paper]](https://arxiv.org/pdf/1912.03500.pdf)
+- Embedding Expansion: Augmentation in Embedding Space for Deep Metric Learning (__EE__) (CVPR 2020) [[Paper]](https://arxiv.org/pdf/2003.02546.pdf) [[Mxnet]](https://github.com/clovaai/embedding-expansion)
 
 - Cross-Batch Memory for Embedding Learning (CVPR 2020) [[Paper]](https://arxiv.org/pdf/1912.06798.pdf) [[Pytorch]](https://github.com/bnu-wangxun/Deep_Metric)
 
@@ -156,6 +158,8 @@ Traditionally, they have defined metrics in a variety of ways, including pairwis
 - Proxy Synthesis: Learning with Synthetic Classes for Deep Metric Learning (AAAI 2021) [[Paper]](https://arxiv.org/pdf/2103.15454.pdf)[[PyTorch]](https://github.com/navervision/proxy-synthesis)
 
 - Noise-resistant Deep Metric Learning with Ranking-based Instance Selection (__PRISM__) (CVPR 2021) [[Paper]](https://arxiv.org/pdf/2103.16047.pdf)[[PyTorch]](https://github.com/alibaba-edu/Ranking-based-Instance-Selection)
+
+- Simultaneous Similarity-based Self-Distillation for Deep Metric Learning (__S2SD__) (ICML 2021) [[Paper]](https://arxiv.org/pdf/2009.08348.pdf)[[Pytorch]](https://github.com/MLforHealth/S2SD)
 
 
 ---
