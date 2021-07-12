@@ -229,9 +229,13 @@ Traditionally, they have defined metrics in a variety of ways, including pairwis
 
 ### 5️⃣ Unsupervised methods
 
-- Unsupervised Embedding Learning via Invariant and Spreading Instance Feature (CVPR 2019) [[Paper]](https://arxiv.org/abs/1904.03436)[[Pytorch]](https://github.com/mangye16/Unsupervised_Embedding_Learning)
+- Unsupervised Embedding Learning via Invariant and Spreading Instance Feature [:dizzy::dizzy::dizzy:]
+(CVPR 2019) [[Paper]](https://arxiv.org/abs/1904.03436)[[Pytorch]](https://github.com/mangye16/Unsupervised_Embedding_Learning)
 
 - Unsupervised Deep Metric Learning with Transformed Attention Consistency and Contrastive Clustering Loss (ECCV 2020) [[Paper]](https://arxiv.org/pdf/2008.04378.pdf)
+
+- Unsupervised Hyperbolic Metric Learning [:dizzy:]
+(CVPR 2021) [[Paper]](https://openaccess.thecvf.com/content/CVPR2021/papers/Yan_Unsupervised_Hyperbolic_Metric_Learning_CVPR_2021_paper.pdf)
 
 
 
