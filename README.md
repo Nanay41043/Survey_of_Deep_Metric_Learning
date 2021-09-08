@@ -32,7 +32,6 @@ Traditionally, they have defined metrics in a variety of ways, including pairwis
   - [Segmentation](#seg)
   - [Image registration](#regist)
   - [Few (zero)-shot approach](#few-shot)
-  - [3D reconstruction](#3d_recon)
   - [Action localization](#action_loc)
   - [Adversarial attack](#adversarial)
   - [Text documentation](#text_documentation)
@@ -41,7 +40,6 @@ Traditionally, they have defined metrics in a variety of ways, including pairwis
   - [Neurips](#neurips)
   - [ICLR](#iclr)
   - [ICML](#icml)
-  - [Others](#others)
 - [Study materials](#study)
   - [Tutorial](#tutorial)
   - [Lectures](#lecture)
@@ -55,7 +53,7 @@ Traditionally, they have defined metrics in a variety of ways, including pairwis
 ### 1️⃣ Pairwise cost methods (stand alone)
 
 - Dimensionality Reduction by Learning an Invariant Mapping (__Contrastive__) [:dizzy::dizzy::dizzy:]
-(CVPR 2006) [[Paper]](http://yann.lecun.com/exdb/publis/pdf/hadsell-chopra-lecun-06.pdf)[[Caffe]](https://github.com/wujiyang/Contrastive-Loss)[[Tensorflow]](https://github.com/ardiya/siamesenetwork-tensorflow)[[Keras]](https://github.com/keras-team/keras/blob/master/examples/mnist_siamese.py)[[Pytorch1]](https://github.com/delijati/pytorch-siamese/blob/master/contrastive.py)[[Pytorch2]](https://github.com/bnulihaixia/Deep_metric)
+(CVPR 2006) [[Caffe]](https://github.com/wujiyang/Contrastive-Loss)[[Tensorflow]](https://github.com/ardiya/siamesenetwork-tensorflow)[[Keras]](https://github.com/keras-team/keras/blob/master/examples/mnist_siamese.py)[[Pytorch1]](https://github.com/delijati/pytorch-siamese/blob/master/contrastive.py)[[Pytorch2]](https://github.com/bnulihaixia/Deep_metric)
 
 - From Point to Set: Extend the Learning of Distance Metrics (ICCV 2013) [[Paper]](http://openaccess.thecvf.com/content_iccv_2013/papers/Zhu_From_Point_to_2013_ICCV_paper.pdf)
 
@@ -66,9 +64,9 @@ Traditionally, they have defined metrics in a variety of ways, including pairwis
 (CVPR 2016) [[Paper]](https://arxiv.org/abs/1511.06452)[[Chainer]](https://github.com/ronekko/deep_metric_learning)[[Caffe]](https://github.com/rksltnl/Deep-Metric-Learning-CVPR16)[[Pytorch1]](https://github.com/zhengxiawu/pytorch_deep_metric_learning)[[Pytorch2]](https://github.com/bnulihaixia/Deep_metric)[[Tensorflow]](https://github.com/kridgeway/f-statistic-loss-nips-2018)
 
 - Improved Deep Metric Learning with Multi-class N-pair Loss Objective (__N-pair__) [:dizzy:]
-(NIPS 2016) [[Paper]](http://www.nec-labs.com/uploads/images/Department-Images/MediaAnalytics/papers/nips16_npairmetriclearning.pdf)[[Pytorch]](https://github.com/ChaofWang/Npair_loss_pytorch)[[Chainer]](https://github.com/ronekko/deep_metric_learning)
+(NIPS 2016) [[Paper]](https://papers.nips.cc/paper/2016/file/6b180037abbebea991d8b1232f8a8ca9-Paper.pdf)[[Pytorch]](https://github.com/ChaofWang/Npair_loss_pytorch)[[Chainer]](https://github.com/ronekko/deep_metric_learning)
 
-- Beyond triplet loss: a deep quadruplet network for person re-identification (__Quadruplet__) (CVPR 2017) [[Paper]](https://cvip.computing.dundee.ac.uk/papers/Chen_CVPR_2017_paper.pdf)
+- Beyond triplet loss: a deep quadruplet network for person re-identification (__Quadruplet__) (CVPR 2017) [[Paper]](https://arxiv.org/pdf/1704.01719.pdf)
 
 - Deep Metric Learning via Facility Location (CVPR 2017) [[Paper]](https://arxiv.org/abs/1612.01213)[[Tensorflow]](https://github.com/CongWeilin/cluster-loss-tensorflow)
 
@@ -125,8 +123,6 @@ Traditionally, they have defined metrics in a variety of ways, including pairwis
 
 - Learning Deep Disentangled Embeddings With the F-Statistic Loss (__F-stat__) (NIPS 2018) [[Paper]](https://papers.nips.cc/paper/7303-learning-deep-disentangled-embeddings-with-the-f-statistic-loss)[[Tensorflow]](https://github.com/kridgeway/f-statistic-loss-nips-2018)
 
-- Deep Metric Learning via Subtype Fuzzy Clustering (__SCDM__) (PR 2020) [[Paper]](https://www.sciencedirect.com/science/article/pii/S0031320319300548)
-
 - Deep Asymmetric Metric Learning via Rich Relationship Mining (__DAML__) (CVPR 2019) [[Paper]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Xu_Deep_Asymmetric_Metric_Learning_via_Rich_Relationship_Mining_CVPR_2019_paper.pdf)
 
 - Hardness-Aware Deep Metric Learning (__HDML__) [:dizzy::dizzy:]
@@ -144,7 +140,7 @@ Traditionally, they have defined metrics in a variety of ways, including pairwis
 
 - Cross-Batch Memory for Embedding Learning (CVPR 2020) [[Paper]](https://arxiv.org/pdf/1912.06798.pdf) [[Pytorch]](https://github.com/bnu-wangxun/Deep_Metric)
 
-- Distance Metric Learning with Joint Representation Diversification (__JRD__) (ICML 2020) [[Paper]](https://proceedings.icml.cc/static/paper_files/icml/2020/4066-Paper.pdf)[[Pytorch]](https://github.com/YangLin122/JRD)
+- Distance Metric Learning with Joint Representation Diversification (__JRD__) (ICML 2020) [[Paper]](http://proceedings.mlr.press/v119/chu20a/chu20a.pdf)[[Pytorch]](https://github.com/YangLin122/JRD)
 
 - Revisiting Training Strategies and Generalization Performance in Deep Metric Learning (ICML 2020) [[Paper]](https://arxiv.org/pdf/2002.08473.pdf)[[PyTorch]](https://github.com/Confusezius/Revisiting_Deep_Metric_Learning_PyTorch)
 
@@ -158,11 +154,7 @@ Traditionally, they have defined metrics in a variety of ways, including pairwis
 
 - RankMI: A Mutual Information Maximizing Ranking Loss (__RankMI__) (CVPR 2020) [[Paper]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Kemertas_RankMI_A_Mutual_Information_Maximizing_Ranking_Loss_CVPR_2020_paper.pdf/)
 
-- Virtual sample-based deep metric learning using discriminant analysis (PR 2020) [[Paper]](https://www.sciencedirect.com/science/article/pii/S0031320320304465)
-
-- Provably Robust Metric Learning (NeurIPS 2020) [[Paper]](https://proceedings.neurips.cc/paper/2020/file/e038453073d221a4f32d0bab94ca7cee-Paper.pdf)
-
-- Deep Metric Learning with Graph Consistency (AAAI 2021) [[Paper]](http://www.bhchen.cn/paper/1310.ChenB.pdf)
+- Provably Robust Metric Learning (NeurIPS 2020) [[Paper]](https://arxiv.org/pdf/2006.07024.pdf)
 
 - Multi-level Distance Regularization for Deep Metric Learning (AAAI 2021) [[Paper]](https://arxiv.org/pdf/2102.04223.pdf)
 
@@ -183,9 +175,9 @@ Traditionally, they have defined metrics in a variety of ways, including pairwis
 
 - Latent Coincidence Analysis: A Hidden Variable Model for Distance Metric Learning (NIPS 2012) [[Paper]](https://papers.nips.cc/paper/4634-latent-coincidence-analysis-a-hidden-variable-model-for-distance-metric-learning.pdf)
 
-- Information-theoretic Semi-supervised Metric Learning via Entropy Regularization (ICML 2014) [[Paper]](https://icml.cc/Conferences/2012/papers/74.pdf)
+- Information-theoretic Semi-supervised Metric Learning via Entropy Regularization (ICML 2012) [[Paper]](https://arxiv.org/pdf/1206.4614.pdf)
 
-- Learning Deep Disentangled Embeddings With the F-Statistic Loss (__F-stat__) (NIPS 2018) [[Paper]](https://papers.nips.cc/paper/7303-learning-deep-disentangled-embeddings-with-the-f-statistic-loss)[[Tensorflow]](https://github.com/kridgeway/f-statistic-loss-nips-2018)
+- Learning Deep Disentangled Embeddings With the F-Statistic Loss (__F-stat__) (NIPS 2018) [[Paper]](https://arxiv.org/pdf/1802.05312.pdf)[[Tensorflow]](https://github.com/kridgeway/f-statistic-loss-nips-2018)
 
 
 ---
@@ -252,8 +244,6 @@ Traditionally, they have defined metrics in a variety of ways, including pairwis
 <a name="reid" />
 
 #### Re-identification
-
-- Person Re-Identification using Kernel-based Metric Learning Methods (ECCV 2014) [[Paper]](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.673.1976&rep=rep1&type=pdf)[[Matlab]](https://github.com/NEU-Gou/kernel-metric-learning-reid)
 
 - Similarity Learning on an Explicit Polynomial Kernel Feature Map for Person Re-Identification (CVPR 2015) [[Paper]](http://openaccess.thecvf.com/content_cvpr_2015/papers/Chen_Similarity_Learning_on_2015_CVPR_paper.pdf)
 
@@ -353,8 +343,6 @@ Traditionally, they have defined metrics in a variety of ways, including pairwis
 
 #### Face recognition
 
-- Large Scale Metric Learning from Equivalence Constraints (CVPR 2012) [[Paper]](https://www.tugraz.at/fileadmin/user_upload/Institute/ICG/Documents/lrs/pubs/koestinger_cvpr_2012.pdf)
-
 - Fusing Robust Face Region Descriptors via Multiple Metric Learning for Face Recognition in the Wild (CVPR 2013) [[Paper]](https://www.cv-foundation.org/openaccess/content_cvpr_2013/papers/Cui_Fusing_Robust_Face_2013_CVPR_paper.pdf)
 
 - Similarity Metric Learning for Face Recognition (ICCV 2013) [[Paper]](http://openaccess.thecvf.com/content_iccv_2013/papers/Cao_Similarity_Metric_Learning_2013_ICCV_paper.pdf)
@@ -387,13 +375,6 @@ Traditionally, they have defined metrics in a variety of ways, including pairwis
 - Revisiting Metric Learning for Few-Shot Image Classification (arXiv 2019) [[Paper]](https://arxiv.org/pdf/1907.03123.pdf)
 
 - Model-Agnostic Metric for Zero-Shot Learning (WACV 2020) [[Paper]](http://openaccess.thecvf.com/content_WACV_2020/papers/Shen_Model-Agnostic_Metric_for_Zero-Shot_Learning_WACV_2020_paper.pdf)
-
-
-<a name="3d_recon" />
-
-#### 3D reconstruction
-
-- Learning Embedding of 3D models with Quadric Loss (BMVC 2019) [[Paper]](https://bmvc2019.org/wp-content/uploads/papers/0452-paper.pdf)[[Pytorch]](https://github.com/nitinagarwal/QuadricLoss)
 
 
 <a name="action_loc" />
@@ -533,32 +514,6 @@ Traditionally, they have defined metrics in a variety of ways, including pairwis
 
 - Hyperbolic Disk Embeddings for Directed Acyclic Graphs (ICML 2019) [[Paper]](https://arxiv.org/pdf/1902.04335.pdf)[[Luigi]](https://github.com/lapras-inc/disk-embedding)
   - Propose embedding framework on quasi-metric space
-
-
-
-<a name="others" />
-
-#### Others
-
-- A unifying mutual information view of metric learning: cross-entropy vs. pairwise losses (ECCV 2020) [[Paper]](https://arxiv.org/pdf/2003.08983v2.pdf)[[PyTorch]](https://github.com/jeromerony/dml_cross_entropy)
-
-- Quadruplet Selection Methods for Deep Embedding Learning (ICIP 2019) [[Paper]](https://arxiv.org/pdf/1907.09245.pdf)
-
-- Cross-Batch Memory for Embedding Learning (ArXiv 2020) [[Paper]](https://arxiv.org/pdf/1912.06798.pdf)
-  
-- Calibrated neighborhood aware confidence measure for deep metric learning (ArXiv 2020) [[Paper]](https://arxiv.org/pdf/2006.04935v1.pdf)
-
-- Diversified Mutual Learning for Deep Metric Learning (ArXiv 2020) [[Link]](https://deepai.org/publication/diversified-mutual-learning-for-deep-metric-learning)
-
-- Deep Metric Learning Based on Rank-sensitive Optimization of Top-k Precision (CIKM 2020) [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3340531.3412142)
-
-- Training Deep Retrieval Models with Noisy Datasets: Bag Exponential Loss (PR2021) [[Paper]](https://www.sciencedirect.com/science/article/pii/S0031320320306142?dgcid=rss_sd_all)
-
-- Group Softmax Loss with Discriminative Feature Grouping (WACV2021) [[Paper]](https://openaccess.thecvf.com/content/WACV2021/papers/Kobayashi_Group_Softmax_Loss_With_Discriminative_Feature_Grouping_WACV_2021_paper.pdf)
-
-- A Multi-class Hinge Loss for Conditional GANs (WACV2021) [[Paper]](https://openaccess.thecvf.com/content/WACV2021/papers/Kavalerov_A_Multi-Class_Hinge_Loss_for_Conditional_GANs_WACV_2021_paper.pdf)
-
-- Embedding Transfer with Label Relaxation for Improved Metric Learning (CVPR 2021) [[Paper]](https://arxiv.org/pdf/2103.14908.pdf)
 
 
 ---
