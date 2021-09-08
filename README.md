@@ -151,7 +151,7 @@ Traditionally, they have defined metrics in a variety of ways, including pairwis
 - PADS: Policy-Adapted Sampling for Visual Similarity Learning (__PADS__) [:dizzy:]
 (CVPR 2020) [[Paper]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Roth_PADS_Policy-Adapted_Sampling_for_Visual_Similarity_Learning_CVPR_2020_paper.pdf)[[PyTorch]](https://github.com/Confusezius/CVPR2020_PADS)
 
-- A Metric Learning Reality Check [:dizzy::dizzy:]
+- A Metric Learning Reality Check [:dizzy::dizzy:] 
 (ECCV 2020) [[Paper]](https://arxiv.org/pdf/2003.08505v1.pdf)[[Pytorch]](https://github.com/bnu-wangxun/Deep_Metric)
 
 - Circle Loss: A Unified Perspective of Pair Similarity Optimization (__CircleLoss__) (CVPR 2020) [[Paper]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Sun_Circle_Loss_A_Unified_Perspective_of_Pair_Similarity_Optimization_CVPR_2020_paper.pdf)[[PyTorch]](https://github.com/TinyZeaMays/CircleLoss)
@@ -171,6 +171,8 @@ Traditionally, they have defined metrics in a variety of ways, including pairwis
 - Noise-resistant Deep Metric Learning with Ranking-based Instance Selection (__PRISM__) (CVPR 2021) [[Paper]](https://arxiv.org/pdf/2103.16047.pdf)[[PyTorch]](https://github.com/alibaba-edu/Ranking-based-Instance-Selection)
 
 - Simultaneous Similarity-based Self-Distillation for Deep Metric Learning (__S2SD__) (ICML 2021) [[Paper]](https://arxiv.org/pdf/2009.08348.pdf)[[Pytorch]](https://github.com/MLforHealth/S2SD)
+
+- LoOp: Looking for Optimal Hard Negative Embeddings for Deep Metric Learning (__LoOp__) (ICCV 2021) [[Paper]](https://arxiv.org/pdf/2108.09335.pdf)[[MXNet]](https://github.com/puneesh00/LoOp)
 
 
 ---
@@ -221,6 +223,8 @@ Traditionally, they have defined metrics in a variety of ways, including pairwis
 - DiVA: Diverse Visual Feature Aggregation for Deep Metric Learning (__DIVA__) (ECCV 2020) [[Paper]](https://arxiv.org/abs/2004.13458) [[PyTorch]](https://github.com/Confusezius/ECCV2020_DiVA_MultiFeature_DML)
 
 - The Group Loss for Deep Metric Learning (__GroupLoss__) (ECCV 2020) [[Paper]](https://arxiv.org/pdf/1912.00385.pdf)[[PyTorch]](https://github.com/dvl-tum/group_loss)
+
+- Deep Relational Metric Learning (ICCV 2021) [[Paper]](https://arxiv.org/pdf/2108.10026.pdf)[[PyTorch]](https://github.com/zbr17/DRML)
 
 
 
