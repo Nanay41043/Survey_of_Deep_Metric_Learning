@@ -140,7 +140,7 @@ Traditionally, they have defined metrics in a variety of ways, including pairwis
 
 - Symmetrical Synthesis for Deep Metric Learning (__Symm__) (AAAI 2020) [[Paper]](https://arxiv.org/abs/2001.11658) [[Tensorflow]](https://github.com/jungwoo-ha/symmetrical-synthesis)
 
-- Embedding Expansion: Augmentation in Embedding Space for Deep Metric Learning (__EE__) (CVPR 2020) [[Paper]](https://arxiv.org/pdf/2003.02546.pdf) [[Mxnet]](https://github.com/clovaai/embedding-expansion)
+- Embedding Expansion: Augmentation in Embedding Space for Deep Metric Learning (__EE__) (CVPR 2020) [[Paper]](https://arxiv.org/pdf/2003.02546.pdf) [[MXNet]](https://github.com/clovaai/embedding-expansion)
 
 - Cross-Batch Memory for Embedding Learning (CVPR 2020) [[Paper]](https://arxiv.org/pdf/1912.06798.pdf) [[Pytorch]](https://github.com/bnu-wangxun/Deep_Metric)
 
@@ -172,7 +172,8 @@ Traditionally, they have defined metrics in a variety of ways, including pairwis
 
 - Simultaneous Similarity-based Self-Distillation for Deep Metric Learning (__S2SD__) (ICML 2021) [[Paper]](https://arxiv.org/pdf/2009.08348.pdf)[[Pytorch]](https://github.com/MLforHealth/S2SD)
 
-- LoOp: Looking for Optimal Hard Negative Embeddings for Deep Metric Learning (__LoOp__) (ICCV 2021) [[Paper]](https://arxiv.org/pdf/2108.09335.pdf)[[MXNet]](https://github.com/puneesh00/LoOp)
+- LoOp: Looking for Optimal Hard Negative Embeddings for Deep Metric Learning (__LoOp__) [:dizzy:]
+(ICCV 2021) [[Paper]](https://arxiv.org/pdf/2108.09335.pdf)[[MXNet]](https://github.com/puneesh00/LoOp)
 
 
 ---
